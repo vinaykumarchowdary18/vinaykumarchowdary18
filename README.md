@@ -66,9 +66,9 @@ A snapshot of the tools and technologies I work with:
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="httpsDOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="httpsT-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </td>
   </tr>
 </table>
@@ -106,6 +106,6 @@ A snapshot of the tools and technologies I work with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
