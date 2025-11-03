@@ -1,97 +1,134 @@
-<h1 align="center">Hi there, I'm Mandadi Vinay Kumar 👋</h1>
-<h3 align="center">A Passionate Full-Stack Developer & Cloud Enthusiast from India</h3>
+<h1 align="center">
+  Hi there, I'm Mandadi Vinay Kumar 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vinay-kumar-chowdary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mvkchowdary20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/vinaykumarchowdary18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  [cite_start]I'm a B.Tech Computer Science student from Lovely Professional University [cite: 39] [cite_start]and a passionate developer with a strong foundation in <b>Cloud Engineering</b>, <b>Full-Stack Development</b>, and <b>Generative AI</b>[cite: 216, 328]. [cite_start]I thrive on solving complex problems (with 200+ LeetCode problems solved! [cite: 36][cite_start]) and architecting scalable, high-performance applications from the ground up[cite: 115, 235].
+</p>
+<p align="center">
+  [cite_start]I was honored to be a <b>Top 105 Finalist (Top 3%)</b> in the Google Developer Groups (GDG) Solution Challenge for innovation and impact[cite: 37, 143, 256].
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 What I'm Focused On
 
-- 🔭 I’m currently working on sharpening my skills in **Cloud Computing (GCP & AWS)** and **DevOps practices**.
-- 🌱 I’m deeply interested in **Generative AI**, **Prompt Engineering**, and building scalable cloud-native applications.
-- 👯 I’m looking to collaborate on innovative **Open-Source Projects** and **Hackathons**.
-- 💬 Ask me about **Full-Stack Development, Cloud Deployment, or Data Structures & Algorithms**.
-- 📫 How to reach me: **mvkchowdary20@gmail.com**
-- ⚡ Fun fact: I've solved **200+ coding problems** on LeetCode, GeeksforGeeks, and HackerRank!
+* [cite_start]**Cloud & DevOps:** Architecting and deploying scalable, cloud-native applications on **GCP** [cite: 111, 392] [cite_start]and **AWS**[cite: 126, 298].
+* [cite_start]**Artificial Intelligence:** Exploring **Generative AI** [cite: 341][cite_start], **Deep Learning** [cite: 358][cite_start], and Data Analytics[cite: 132, 302].
+* [cite_start]**Full-Stack Development:** Building end-to-end web applications with the **MEAN stack** (MongoDB, Express, Node.js) [cite: 24-25, 294] [cite_start]and **React**[cite: 106, 224].
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ My Tech Stack
 
-| Category        | Technologies                                                                                                                              |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**   | `C++`, `JavaScript`, `Java`                                                                                                               |
-| **Frontend**    | `HTML5`, `CSS3`, `React`                                                                                                                  |
-| **Backend**     | `Node.js`, `Express.js`                                                                                                                   |
-| **Databases**   | `MongoDB`, `MySQL`                                                                                                                        |
-| **Cloud & DevOps** | `Google Cloud (GCP)`, `AWS`, `Docker`, `Kubernetes`, `Firebase`                                                                       |
-| **Tools**       | `Git`, `GitHub`                                                                                                                           |
+Here's a snapshot of the tools and technologies I work with:
 
----
+**Languages:**
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-### 📌 Highlighted Projects
+**Full-Stack Development:**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-#### 🗳️ Secure Aadhaar Voting System
-*(July 2025)* - An Aadhaar-based platform that **reduced voter verification time by 80%**. Features strong authentication and secure REST APIs, deployed on **Google Cloud**.
-<br>
-`HTML` `CSS` `JavaScript` `MySQL` `Google Cloud`
-
-#### 🚗 EcoRide Carpooling System
-*(April 2025)* - A full-stack platform to connect commuters on similar routes, aiming to **reduce traffic and carbon emissions**. Implements user auth and ride matching.
-<br>
-`MongoDB` `Node.js` `Express` `HTML` `CSS` `JavaScript`
-
----
-
-### 📜 Certifications & Achievements
-
-#### 🏆 Certifications
-- **Oracle Cloud Infrastructure 2025** Certified Multicloud Architect Professional
-- **Oracle Cloud Infrastructure 2025** DevOps Professional
-- **Google Cloud** Data Analytics Certificate
-- **AWS** Cloud Practitioner Essentials
-
-#### 🏅 Achievements
-- Recognized among the **Top 105 Teams** in the **GDG Solution Challenge** by Google Developer Groups.
-- Reached **Gold Tier** status on Google Cloud for extensive completion of hands-on labs and quests.
+**Cloud, DevOps & AI:**
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Generative_AI-4A4A4A?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 My Key Projects & Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=radical" alt="Vinay's GitHub Stats" />
+<details>
+  <summary><b>🥇 GDG Solution Challenge Finalist (Top 3%)</b></summary>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarchowdary18&theme=radical" alt="GitHub Streak" />
+  [cite_start]Our team was selected as a <b>Top 105 finalist from over 3,700 teams</b> in the Google Developer Groups (GDG) Solution Challenge for a project demonstrating significant innovation and real-world impact[cite: 143, 256, 424].
+</details>
+
+<details>
+  <summary><b>⚡ Secure Aadhaar Voting System (GCP & Node.js)</b></summary>
+  <br>
+  [cite_start]I architected and deployed a high-performance, scalable voting platform on <b>Google Cloud Platform</b>[cite: 111, 235, 392]. [cite_start]This system successfully <b>reduced voter verification time by 80%</b> (from 10 minutes to just 2 minutes) through architectural optimizations and efficient static asset delivery[cite: 19, 115, 286].
+  <br><br>
+  <b>Tech Used:</b>
+  <p>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="REST API"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>🤖 Compass AI Travel Planner (AI & Flutter)</b></summary>
+  <br>
+  [cite_start]Developed a mobile application to explore <b>AI-powered travel itineraries</b> using Firebase Data Connect[cite: 119, 350, 400]. [cite_start]I integrated interactive maps and configured the Firebase backend for seamless, real-time data flow[cite: 120, 121, 351, 352].
+  <br><br>
+  <b>Tech Used:</b>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Generative_AI-4A4A4A?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>🚗 EcoRide Carpooling System (MEAN Stack)</b></summary>
+  <br>
+  [cite_start]Developed a full-stack, eco-friendly ride-sharing platform using the <b>MEAN stack</b> (MongoDB, Express.js, Node.js)[cite: 25, 241, 294]. [cite_start]I engineered the carpool matching system and implemented user authentication, ride scheduling, and fare splitting[cite: 24, 25, 243, 293].
+  <br><br>
+  <b>Tech Used:</b>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>💻 200+ Problems Solved & Google Cloud Gold Tier</b></summary>
+  <br>
+  [cite_start]<li>Strengthened my problem-solving and algorithmic skills by solving <b>200+ coding problems</b> on LeetCode, GeeksforGeeks, and HackerRank[cite: 36, 311].</li>
+  [cite_start]<li>Reached <b>Gold Tier status</b> for extensive completion of hands-on labs and quests in Google Cloud Skills Boost[cite: 144, 257, 362].</li>
+</details>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
 
-### 📚 Education
-- **Bachelor of Technology** in Computer Science and Engineering<br>
-  *Lovely Professional University, Punjab, India (Aug 2022 - Present)*
+### 📫 How to Reach Me
 
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=vinaykumarchowdary18&color=blueviolet" alt="Profile Views" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinay-kumar-chowdary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mvkchowdary20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
-
-<!--
-**vinaykumarchowdary18/vinaykumarchowdary18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
