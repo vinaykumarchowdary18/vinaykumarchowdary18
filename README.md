@@ -4,6 +4,10 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vinaykumarchowdary18&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+</p>
+
 ### Full-Stack Developer | Cloud & AI Enthusiast | GDG Solution Challenge Finalist
 
 I'm a B.Tech Computer Science student passionate about building scalable, high-impact applications. I thrive on solving complex problems (200+ LeetCode solved!) and architecting cloud-native solutions from the ground up.
@@ -106,6 +110,6 @@ A snapshot of the tools and technologies I work with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
