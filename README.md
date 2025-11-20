@@ -11,17 +11,19 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=vinaykumarchowdary18&label=Profile%20Views&color=blue&style=for-the-badge)
-  ![GitHub Followers](https://img.shields.io/github/followers/vinaykumarchowdary18?label=Followers&style=for-the-badge)
-  ![GitHub Stars](https://img.shields.io/github/stars/vinaykumarchowdary18?label=Stars&style=for-the-badge)
+  ![GitHub Followers](https://img.shields.io/github/followers/vinaykumarchowdary18?label=Followers&style=for-the-badge&color=blue)
+  ![GitHub Stars](https://img.shields.io/github/stars/vinaykumarchowdary18?label=Stars&style=for-the-badge&color=blue)
 
 </div>
+
+<br/>
 
 <!-- Profile Stats -->
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=algolia&border_radius=20&count_private=true&hide_border=true&bg_color=0d1117&title_color=0066ff&icon_color=0066ff&text_color=ffffff)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=algolia&border_radius=20&hide_border=true&bg_color=0d1117&title_color=0066ff&text_color=ffffff)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=algolia&border_radius=20&hide_border=true&bg_color=0d1117&title_color=0066ff&text_color=ffffff&hide=html,css,scss,dart)
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=algolia&border_radius=20&hide_border=true&background=0d1117&ring=0066ff&fire=0066ff&currStreakLabel=0066ff)
 
@@ -146,11 +148,11 @@ Detail-oriented B.Tech Computer Science student passionate about creating scalab
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contributions
 
 <div align="center">
   
-  ![Contribution Snake](https://raw.githubusercontent.com/vinaykumarchowdary18/vinaykumarchowdary18/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/vinaykumarchowdary18/vinaykumarchowdary18/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -188,10 +190,16 @@ Detail-oriented B.Tech Computer Science student passionate about creating scalab
 
 <div align="center">
 
-### 💡 **Innovation Philosophy**
-> *"Transforming complex challenges into elegant solutions through cloud-native architecture and intelligent systems."*
+## 💡 Innovation Philosophy
 
+> **"Transforming complex challenges into elegant solutions through cloud-native architecture and intelligent systems."**
+
+<br/>
+
+### 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/vinaykumarchowdary18/count.svg)
+
+<br/>
 
 **Thanks for visiting! Let's build the future together!** 🚀
 
