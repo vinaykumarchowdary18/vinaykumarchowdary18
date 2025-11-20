@@ -1,171 +1,290 @@
-<!-- Header Section -->
-<div align="center">
-
-# 👋 Hello, I'm Vinay Kumar
-
-**Computer Science Student | Full-Stack Developer | Cloud Enthusiast**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-chowdary)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvkchowdary20@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)
-
-![Profile Views](https://komarev.com/ghpvc/?username=vinaykumarchowdary18&label=Profile%20Views&color=blue&style=for-the-badge)
-
-</div>
-
----
-
-## 🎯 About Me
-
-I'm a passionate Computer Science Engineering student at **Lovely Professional University** with expertise in **Full-Stack Development, Cloud Computing, and AI/ML**. I love transforming complex challenges into elegant solutions through innovative technology.
-
-**🏆 Key Achievements:**
-- 🥇 **Top 105 Finalist** in Google Developer Groups Solution Challenge (Top 3% among 3,700+ teams)
-- 🏆 **Gold Tier Status** in Google Cloud Skills Boost
-- 💻 **200+ Coding Problems** solved on LeetCode, GeeksforGeeks, and HackerRank
-
----
-
-## 🛠️ Tech Stack
-
-### **Programming Languages**
+<!-- ANIMATED HEADER WITH PARTICLES -->
 <div align="center">
   
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&duration=4000&lines=HELLO+WORLD!+👋;I'M+VINAY+KUMAR;FULL-STACK+DEVELOPER;CLOUD+ARCHITECT;AI+ENTHUSIAST;OPEN+SOURCE+CONTRIBUTOR" alt="Typing SVG" />
+  
+  <br/>
+  
+  <!-- ANIMATED BADGES -->
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=vinaykumarchowdary18&theme=radical&no-frame=true&no-bg=true&margin-w=20&row=1&column=6" alt="Trophies" />
+  </div>
+
+  <br/>
+  
+  <!-- FLOATING BADGES -->
+  <div align="center">
+    <a href="https://linkedin.com/in/vinay-kumar-chowdary">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=0077B5" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/vinaykumarchowdary18">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=181717" alt="GitHub"/>
+    </a>
+    <a href="mailto:mvkchowdary20@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=D14836" alt="Gmail"/>
+    </a>
+    <a href="https://leetcode.com/your-profile">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black&color=FFA116" alt="LeetCode"/>
+    </a>
+  </div>
+
+  <br/>
+
+  <!-- LIVE COUNTERS -->
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=vinaykumarchowdary18&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/vinaykumarchowdary18?label=FOLLOWERS&style=for-the-badge&color=blueviolet" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/vinaykumarchowdary18?label=STARS&style=for-the-badge&color=blueviolet" alt="Stars"/>
+  </div>
 
 </div>
-
-### **Web Development**
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-</div>
-
-### **Cloud & DevOps**
-<div align="center">
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-### **Databases & Tools**
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### **🗳️ Secure Aadhaar Voting System**
-*July 2025 | Cloud-Native Voting Platform*
-- **Reduced voter verification time by 80%** through architectural optimizations
-- **Secured database layer** using Cloud SQL for MySQL with IAM authentication
-- **Technologies:** GCP, Node.js, JavaScript, MySQL, REST APIs
-
-### **🚗 EcoRide Carpooling System**
-*April 2025 | Full-Stack Ride-Sharing Platform*
-- **Developed eco-friendly platform** to reduce traffic and carbon emissions
-- **Engineered full-stack data flow** with MongoDB, Express.js, Node.js
-- **Technologies:** MongoDB, Node.js, Express, HTML, CSS, JavaScript
-
-### **🧭 Compass AI Travel Planner**
-*October 2025 | AI-Powered Mobile Application*
-- **Developed Flutter app** with AI-powered travel itineraries
-- **Integrated interactive maps** and real-time data flow
-- **Technologies:** Flutter, Firebase, Git, Interactive Maps
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-![Oracle Cloud Architect](https://img.shields.io/badge/Oracle_Cloud-Multicloud_Architect_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle DevOps](https://img.shields.io/badge/Oracle_Cloud-DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle AI](https://img.shields.io/badge/Oracle_Cloud-AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Data_Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
-
-### **Coursera Specializations**
-- **Getting Started With Git and GitHub** - *September 2025*
-- **Introduction to Containers w/Docker, Kubernetes & OpenShift** - *September 2025*
-- **Linux Commands and Shell Scripting** - *September 2025*
-- **ChatGPT Advanced Data Analysis** - *May 2024*
-- **DeepLearning AI & Prompt Engineering** - *2024*
-- **Generative AI Primer** - *February 2024*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-| | |
-| :---: | :---: |
-| **GitHub Stats** | **Most Used Languages** |
-| <img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0066ff&icon_color=0066ff&text_color=ffffff" width="400"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=0066ff&text_color=ffffff&hide=html,css,scss,dart" width="300"> |
-| **Streak Stats** | **Activity Graph** |
-| <img src="https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=algolia&hide_border=true&background=0d1117&ring=0066ff&fire=0066ff&currStreakLabel=0066ff" width="400"> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Vinay's%20Activity" width="400"> |
-
-</div>
-
----
-
-## 🎓 Education
-
-**Lovely Professional University**  
-*Bachelor of Technology - Computer Science and Engineering*  
-📍 Punjab, India | 🗓️ August 2022 - Present
-
-**Narayana Junior College**  
-*Intermediate - 91.5%*  
-📍 Visakhapatnam | 🗓️ April 2020 - May 2022
-
-**Narayana High School**  
-*Matriculation - 98.6%*  
-📍 Vishakhapatnam | 🗓️ June 2017 - April 2020
-
----
-
-## 💡 Innovation Philosophy
-
-<div align="center">
-
-> **"Transforming complex challenges into elegant solutions through cloud-native architecture and intelligent systems."**
 
 <br/>
 
-### 🌟 Let's Connect!
-I'm always open to discussing technology, collaborations, and new opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vinay-kumar-chowdary)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mvkchowdary20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/vinaykumarchowdary18)
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 <br/>
 
-**Thanks for visiting! Let's build the future together!** 🚀
+<!-- 3D STATS CARDS -->
+<div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/vinaykumarchowdary18/count.svg)
+  <h2>📊 LIVE CODING METRICS</h2>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=radical&border_color=61dafb&bg_color=0D1117&title_color=61dafb&icon_color=61dafb&include_all_commits=true&count_private=true&custom_title=CODING+ACTIVITY" alt="Stats" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=radical&border_color=61dafb&bg_color=0D1117&title_color=61dafb&hide=html,css,scss,dart&langs_count=8&custom_title=TECH+STACK" alt="Top Languages" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=radical&border=61dafb&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&dates=FFFFFF" alt="GitHub Streak" width="100%"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+<!-- ANIMATED SKILLS GRID -->
+<div align="center">
+
+  <h2>🚀 TECH SUPERPOWERS</h2>
+  
+  <!-- PROGRAMMING LANGUAGES -->
+  <h3>💻 Programming Languages</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black"/>
+  </div>
+
+  <br/>
+
+  <!-- FRONTEND -->
+  <h3>🎨 Frontend Development</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black"/>
+  </div>
+
+  <br/>
+
+  <!-- CLOUD & DEVOPS -->
+  <h3>☁️ Cloud & DevOps</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=black"/>
+  </div>
+
+  <br/>
+
+  <!-- DATABASES & AI -->
+  <h3>🗄️ Databases & AI/ML</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black"/>
+  </div>
+
+</div>
+
+<br/>
+
+<!-- ANIMATED PROJECTS SHOWCASE -->
+<div align="center">
+
+  <h2>💫 FEATURED PROJECTS</h2>
+
+  <table>
+    <tr>
+      <td width="33%">
+        <div align="center">
+          <h3>🗳️ Secure Aadhaar Voting</h3>
+          <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+          <p><b>80% faster verification</b><br/>Cloud-native voting platform</p>
+        </div>
+      </td>
+      <td width="33%">
+        <div align="center">
+          <h3>🚗 EcoRide Carpooling</h3>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+          <p><b>Eco-friendly platform</b><br/>Reduces traffic & emissions</p>
+        </div>
+      </td>
+      <td width="33%">
+        <div align="center">
+          <h3>🧭 Compass AI Travel</h3>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+          <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
+          <p><b>AI-powered itineraries</b><br/>Interactive maps & real-time data</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+<!-- CERTIFICATIONS CAROUSEL -->
+<div align="center">
+
+  <h2>🏆 CERTIFICATIONS & ACHIEVEMENTS</h2>
+
+  <!-- PROFESSIONAL CERTIFICATIONS -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/Oracle_Cloud-Architect_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Oracle_Cloud-DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Oracle_Cloud-AI_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-Data_Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=black"/>
+  </div>
+
+  <br/>
+
+  <!-- ACHIEVEMENT BADGES -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/Google_GDG-Top_105_Teams-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-Gold_Tier-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black"/>
+  </div>
+
+</div>
+
+<br/>
+
+<!-- ANIMATED ACTIVITY GRAPH -->
+<div align="center">
+
+  <h2>📈 DEVELOPMENT ACTIVITY</h2>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=DAILY+CODING+CONTRIBUTIONS&point=61dafb&color=61dafb&area_color=61dafb" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- EDUCATION TIMELINE -->
+<div align="center">
+
+  <h2>🎓 EDUCATION JOURNEY</h2>
+
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <h3>🎯 Lovely Professional University</h3>
+        <p><b>B.Tech CSE</b><br/>2022 - Present<br/>📍 Punjab, India</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>📚 Narayana Junior College</h3>
+        <p><b>Intermediate - 91.5%</b><br/>2020 - 2022<br/>📍 Visakhapatnam</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🏆 Narayana High School</h3>
+        <p><b>Matriculation - 98.6%</b><br/>2017 - 2020<br/>📍 Vishakhapatnam</p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+<!-- INNOVATION PHILOSOPHY -->
+<div align="center">
+
+  <h2>💡 INNOVATION PHILOSOPHY</h2>
+  
+  <div style="background: linear-gradient(45deg, #0D1117, #161B22); padding: 30px; border-radius: 15px; border: 2px solid #61dafb;">
+    <h3 style="color: #61dafb; margin: 0;">
+      "Transforming complex challenges into elegant solutions through cloud-native architecture and intelligent systems."
+    </h3>
+  </div>
+
+</div>
+
+<br/>
+
+<!-- FOOTER WITH SOCIAL LINKS -->
+<div align="center">
+
+  <h2>🌐 LET'S CONNECT & COLLABORATE</h2>
+
+  <!-- SOCIAL LINKS GRID -->
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/vinay-kumar-chowdary">
+          <img src="https://img.shields.io/badge/LinkedIn-ProConnect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:mvkchowdary20@gmail.com">
+          <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vinaykumarchowdary18">
+          <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- FINAL ANIMATED COUNTER -->
+  <div style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4); padding: 20px; border-radius: 10px;">
+    <h3 style="color: white; margin: 0;">🚀 THANKS FOR VISITING! LET'S BUILD THE FUTURE TOGETHER! 🚀</h3>
+    <img src="https://profile-counter.glitch.me/vinaykumarchowdary18/count.svg" alt="Visitor Count"/>
+  </div>
+
+  <br/>
+
+  <!-- ANIMATED DIVIDER -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+  <p>Made with ❤️ by <b>Vinay Kumar</b> | ⚡ Passionate Developer | 🌟 Cloud Enthusiast</p>
 
 </div>
