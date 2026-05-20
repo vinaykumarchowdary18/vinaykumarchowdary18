@@ -1,258 +1,300 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:00F5D4,100:F80000&height=220&section=header&text=Vinay%20Kumar%20Mandadi&fontSize=58&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Multicloud%20Architect%20%7C%20DevOps%20Engineer%20%7C%20Edge%20AI%20Specialist&descSize=17&descAlignY=56" alt="Header Banner" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:7B42BC,50:00F5D4,75:F80000,100:FF9900&height=240&section=header&text=Vinay%20Kumar%20Mandadi&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=☁️%20Multicloud%20Architect%20%7C%20⚙️%20DevOps%20Engineer%20%7C%20🧠%20Edge%20AI%20Specialist&descSize=18&descAlignY=60&descColor=00F5D4" alt="Header" />
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=☁️+Multicloud+Architect+%7C+GCP+%7C+AWS+%7C+OCI;⚙️+DevOps+%7C+Terraform+%7C+Kubernetes+%7C+Docker;🧠+MLOps+%7C+Edge+AI+%7C+TensorRT+%7C+ONNX;🚀+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+TensorRT+·+ONNX;🔬+Quantum+Computing+%7C+Qiskit+·+NetOps+Automation;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-chowdary)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvkchowdary20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
-[![Certifications](https://img.shields.io/badge/Oracle_Certs-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle)
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Oracle Certs](https://img.shields.io/badge/Oracle_Certs-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=vinaykumarchowdary18&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS)
-
+![GitHub followers](https://img.shields.io/github/followers/vinaykumarchowdary18?style=for-the-badge&color=4285F4&labelColor=0D1117&label=FOLLOWERS)
 </div>
-
 ---
-
-## 👨‍💻 About Me
-
+🧑‍💻 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 ```yaml
-name        : Vinay Kumar Mandadi
-role        : Cloud & DevOps Engineer | MLOps & Edge AI Specialist
-university  : Lovely Professional University (Final-Year B.Tech CSE)
-gre_score   : 324  (Quant: 168/170)
-focus       : Infrastructure-as-Code × Edge AI · Generative Models on Edge Networks
-status      : 🟢 Open to Opportunities
+👤 Profile:
+  name       : "Vinay Kumar Mandadi"
+  title      : "Multicloud Architect & Edge AI Specialist"
+  education  : "B.Tech CSE @ LPU (Final Year)"
+  hometown   : "Visakhapatnam, Andhra Pradesh 🇮🇳"
+  location   : "Phagwara, Punjab (University)"
+  birthday   : "December 7, 2004 · Age 21"
+
+🎯 Expertise:
+  - Cloud Architecture (GCP, AWS, OCI)
+  - DevOps & CI/CD Automation
+  - MLOps & Edge AI Deployment
+  - Infrastructure as Code (Terraform)
+  - Quantum Computing (Qiskit)
+  - NetOps Automation
+
+🚀 Currently:
+  - Deepfake Detection Capstone (97-99% AUC)
+  - Mastering Kubernetes & TensorRT
+  - Planning Masters in CS abroad
+  - Preparing for JLPT N4 Japanese
+
+💡 Philosophy:
+  "Automate everything, scale infinitely,
+   deploy to the edge — fearlessly."
 ```
-
-I specialize in **automating distributed multicloud architectures** and building **fault-tolerant continuous deployment pipelines**. Deeply passionate about the intersection of **IaC** and **Edge AI** — specifically optimizing how generative and predictive models are deployed to edge networks without network latency.
-
-<details>
-<summary>🌍 <b>Global Profile & Beyond the Screen</b></summary>
-<br/>
-
-| Category | Details |
-|---|---|
-| 🎓 **Academics** | Strong upward trajectory (7.0+ TGPA) in Virtualization & Cloud Computing, SRE, Cloud Capstone |
-| 🇬🇧 **English** | Fluent |
-| 🇮🇳 **Telugu / Hindi** | Native / Fluent |
-| 🇯🇵 **Japanese** | JLPT N4 Level |
-| 🇨🇳 **Chinese** | HSK 1 Basics |
-| ✈️ **Aviation** | Enthusiast & frequent domestic flyer |
-| 🎮 **Gaming** | Ranked **#3 Globally** · Legendary Mars · Knives Out Season 47 |
-
-</details>
-
+</td>
+<td width="45%" align="center" valign="top">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
+<br/><br/>
+![GRE](https://img.shields.io/badge/GRE-324_(Quant_168/170)-00F5D4?style=flat-square)
+![Rank](https://img.shields.io/badge/Knives_Out-🏆_No.3_Globally-F80000?style=flat-square)
+![GDG](https://img.shields.io/badge/GDG_Challenge-Top_3%25_National-4285F4?style=flat-square)
+</td>
+</tr>
+</table>
 ---
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary>☁️ <b>Cloud & Infrastructure</b></summary>
-<br/>
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</details>
-
-<details open>
-<summary>⚙️ <b>DevOps & CI/CD</b></summary>
-<br/>
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</details>
-
-<details open>
-<summary>💻 <b>Languages & Frameworks</b></summary>
-<br/>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-</details>
-
-<details open>
-<summary>🧠 <b>AI / ML & Databases</b></summary>
-<br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
----
-
-## 🚀 Architecture & Deployment Portfolio
-
-<details open>
-<summary>🕵️ <b>Truth In Pixels — Dual-Branch Deepfake Detection System</b> &nbsp;·&nbsp; <i>Capstone Project</i></summary>
-<br/>
-
-> **Full-stack AI pipeline for detecting GAN-generated deepfakes using both spatial and frequency analysis.**
-
-| Property | Details |
-|---|---|
-| **Architecture** | EfficientNetV2-M (RGB Spatial) + CNN (DCT Frequency) |
-| **Stack** | Python · PyTorch · Flask · ONNX · TensorRT · GradCAM · SQLite |
-| **Performance** | 🏆 **97–99% AUC** on FaceForensics++ benchmark |
-| **Deployment** | ONNX export → TensorRT for high-speed edge inference |
-| **Features** | Real-time video upload · XAI heatmap visualizations · Flask web app |
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/vinaykumarchowdary18/Truth-In-Pixels)
-
-</details>
-
----
-
-<details>
-<summary>🗳️ <b>Secure Aadhaar Voting System</b> &nbsp;·&nbsp; <i>GCP Cloud-Native Platform</i></summary>
-<br/>
-
-> **Cloud-native voting platform with Aadhaar-based verification on Google Cloud Platform.**
-
-| Property | Details |
-|---|---|
-| **Stack** | GCP · Node.js · MySQL · Cloud Storage · Cloud SQL · IAM |
-| **Architecture** | Static frontend on Cloud Storage · Secured backend via Cloud SQL |
-| **Auth** | IAM database authentication · Role-based access control |
-| **Impact** | ⚡ **80% reduction** in voter verification latency via structural optimizations |
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/vinaykumarchowdary18)
-
-</details>
-
----
-
-<details>
-<summary>🧭 <b>Compass AI Travel Planner</b> &nbsp;·&nbsp; <i>Cross-Platform Mobile App</i></summary>
-<br/>
-
-> **AI-powered mobile travel planner with real-time location mapping and itinerary generation.**
-
-| Property | Details |
-|---|---|
-| **Stack** | Flutter · Firebase Data Connect · latlong2 · geolocator · flutter_map |
-| **Platform** | iOS & Android (Cross-platform) |
-| **Features** | AI-generated itineraries · Real-time location mapping |
-| **Testing** | Configured local emulators for seamless backend data flow testing |
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/vinaykumarchowdary18)
-
-</details>
-
----
-
-<details>
-<summary>🚗 <b>EcoRide Carpooling System</b> &nbsp;·&nbsp; <i>Full-Stack MEAN Application</i></summary>
-<br/>
-
-> **End-to-end MEAN stack ride-sharing platform with secure authentication and scheduling.**
-
-| Property | Details |
-|---|---|
-| **Stack** | MongoDB · Express.js · React · Node.js · bcrypt |
-| **Security** | bcrypt encryption for robust user authentication |
-| **Architecture** | Complete data flow from Node.js backend to MongoDB instance |
-| **Features** | Secure ride-sharing · User scheduling · Driver-rider matching |
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/vinaykumarchowdary18)
-
-</details>
-
----
-
-## 🏅 Official Certifications
-
-> *Verify active badges in my [Certifications Repository](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle)*
-
-| Badge | Certification |
-|:---:|---|
-| 🏆 | **Oracle Cloud Infrastructure — Multicloud Architect** |
-| 🏆 | **Oracle Cloud Infrastructure — DevOps Professional** |
-| 🏆 | **Oracle Cloud Infrastructure — AI Foundations Associate** |
-| 🏆 | **Oracle Cloud — Data Management Foundations Associate** |
-| ☁️ | **Google Cloud Data Analytics Certificate** |
-| ☁️ | **AWS Cloud Practitioner Essentials** |
-| 🐳 | **Introduction to Containers w/ Docker, Kubernetes & OpenShift** *(Coursera)* |
-| 🐧 | **Hands-on Introduction to Linux Commands and Shell Scripting** *(Coursera)* |
-
----
-
-## 🌟 Research & Global Achievements
-
+🛠️ Technology Stack
+☁️ Cloud Platforms & Infrastructure
 <div align="center">
-
-| 🏆 Achievement | 📊 Metric | 📝 Details |
-|---|---|---|
-| **GDG Solution Challenge** | **Top 3%** Nationally | Ranked #105 of 3,700+ competing teams |
-| **Google Cloud Skills** | **Gold Tier** | Extensive hands-on cloud labs & infra quests |
-| **Gaming · Knives Out** | **#3 Globally** | Legendary Mars · Season 47 |
-| **Algorithmic Problem Solving** | **200+** Problems | LeetCode & GeeksForGeeks |
-| **GRE Score** | **324** (Quant: **168**/170) | Top-tier quantitative aptitude |
-| **Research Paper (AIRIMF)** | Working Paper | AI-Based Risk Identification & Mitigation Framework |
-
+AWS	GCP	Oracle Cloud	Azure	Firebase	DigitalOcean	Vercel	Netlify
+<img src="https://skillicons.dev/icons?i=aws" width="50"/>	<img src="https://skillicons.dev/icons?i=gcp" width="50"/>	<img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>	<img src="https://skillicons.dev/icons?i=azure" width="50"/>	<img src="https://skillicons.dev/icons?i=firebase" width="50"/>	<img src="https://skillicons.dev/icons?i=digitalocean" width="50"/>	<img src="https://skillicons.dev/icons?i=vercel" width="50"/>	<img src="https://skillicons.dev/icons?i=netlify" width="50"/>
 </div>
-
 ---
-
-## 📊 GitHub Analytics
-
+⚙️ DevOps & Orchestration
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=E8EFF8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4" alt="GitHub Streak" width="48%" />
+Docker	Kubernetes	Terraform	Jenkins	Ansible	ArgoCD	GitHub Actions	GitLab CI
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>	<img src="https://skillicons.dev/icons?i=kubernetes" width="50"/>	<img src="https://skillicons.dev/icons?i=terraform" width="50"/>	<img src="https://skillicons.dev/icons?i=jenkins" width="50"/>	<img src="https://skillicons.dev/icons?i=ansible" width="50"/>	<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>	<img src="https://skillicons.dev/icons?i=githubactions" width="50"/>	<img src="https://skillicons.dev/icons?i=gitlab" width="50"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E8EFF8" alt="Top Languages" width="50%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=4285F4&point=F80000" alt="Activity Graph" width="100%" />
-</div>
-
 ---
-
+💻 Programming Languages
 <div align="center">
-
-### 💬 Let's Connect
-
-*Building the future of cloud infrastructure and edge intelligence — one deployment at a time.*
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-chowdary)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvkchowdary20@gmail.com)
-
+Python	JavaScript	TypeScript	Java	C++	Bash	Go	Kotlin
+<img src="https://skillicons.dev/icons?i=python" width="50"/>	<img src="https://skillicons.dev/icons?i=js" width="50"/>	<img src="https://skillicons.dev/icons?i=ts" width="50"/>	<img src="https://skillicons.dev/icons?i=java" width="50"/>	<img src="https://skillicons.dev/icons?i=cpp" width="50"/>	<img src="https://skillicons.dev/icons?i=bash" width="50"/>	<img src="https://skillicons.dev/icons?i=go" width="50"/>	<img src="https://skillicons.dev/icons?i=kotlin" width="50"/>
+</div>
+---
+🌐 Web Development & Frameworks
+<div align="center">
+Node.js	React	Next.js	Express	Flask	HTML5	CSS3	Tailwind	Bootstrap
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>	<img src="https://skillicons.dev/icons?i=react" width="50"/>	<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>	<img src="https://skillicons.dev/icons?i=express" width="50"/>	<img src="https://skillicons.dev/icons?i=flask" width="50"/>	<img src="https://skillicons.dev/icons?i=html" width="50"/>	<img src="https://skillicons.dev/icons?i=css" width="50"/>	<img src="https://skillicons.dev/icons?i=tailwind" width="50"/>	<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
+</div>
+---
+📱 Mobile & Cross-Platform
+<div align="center">
+Flutter	Android	Android Studio	React Native	Firebase	Material UI
+<img src="https://skillicons.dev/icons?i=flutter" width="50"/>	<img src="https://skillicons.dev/icons?i=android" width="50"/>	<img src="https://skillicons.dev/icons?i=androidstudio" width="50"/>	<img src="https://skillicons.dev/icons?i=react" width="50"/>	<img src="https://skillicons.dev/icons?i=firebase" width="50"/>	<img src="https://skillicons.dev/icons?i=materialui" width="50"/>
+</div>
+---
+🧠 AI / ML & Edge Intelligence
+<div align="center">
+TensorFlow	PyTorch	OpenCV	ONNX	TensorRT	Qiskit
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>	<img src="https://skillicons.dev/icons?i=pytorch" width="50"/>	<img src="https://skillicons.dev/icons?i=opencv" width="50"/>	<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>	<img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>	<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
+</div>
+---
+🗄️ Databases & Storage
+<div align="center">
+MySQL	PostgreSQL	MongoDB	Redis	SQLite	Firestore
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>	<img src="https://skillicons.dev/icons?i=postgres" width="50"/>	<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>	<img src="https://skillicons.dev/icons?i=redis" width="50"/>	<img src="https://skillicons.dev/icons?i=sqlite" width="50"/>	<img src="https://skillicons.dev/icons?i=firebase" width="50"/>
+</div>
+---
+🔧 Tools & Platforms
+<div align="center">
+Git	GitHub	GitLab	Linux	VS Code	IntelliJ	Nginx	Postman
+<img src="https://skillicons.dev/icons?i=git" width="50"/>	<img src="https://skillicons.dev/icons?i=github" width="50"/>	<img src="https://skillicons.dev/icons?i=gitlab" width="50"/>	<img src="https://skillicons.dev/icons?i=linux" width="50"/>	<img src="https://skillicons.dev/icons?i=vscode" width="50"/>	<img src="https://skillicons.dev/icons?i=idea" width="50"/>	<img src="https://skillicons.dev/icons?i=nginx" width="50"/>	<img src="https://skillicons.dev/icons?i=postman" width="50"/>
+</div>
+---
+📈 Monitoring & Observability
+<div align="center">
+Prometheus	Grafana	ELK Stack	Datadog	Sentry	New Relic
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>	<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>	<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>	<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>	<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>	<img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/>
+</div>
+---
+🚀 Featured Projects Portfolio
+<table>
+<tr>
+<td width="50%" valign="top">
+🕵️ Truth In Pixels
+Dual-Branch Deepfake Detection System · Capstone
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+Full-stack AI pipeline detecting GAN artifacts
+🧠 EfficientNetV2-M (RGB) + CNN (DCT Frequency)
+🏆 97–99% AUC on FaceForensics++ benchmark
+⚡ ONNX → TensorRT for edge-speed inference
+🔬 GradCAM XAI heatmap visualizations
+🌐 Flask + SQLite real-time video upload app
+![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+</td>
+<td width="50%" valign="top">
+🗳️ Secure Aadhaar Voting System
+Cloud-Native Voting Platform on GCP
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![IAM](https://img.shields.io/badge/Cloud_IAM-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+Aadhaar-authenticated cloud voting infrastructure
+☁️ Static frontend on GCP Cloud Storage
+🔐 IAM database auth + Cloud SQL backend
+⚡ 80% reduction in voter verification latency
+📊 Real-time result dashboards
+🏗️ Role-based access control & audit logging
+![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🧭 Compass AI Travel Planner
+Cross-Platform Mobile App
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+AI-powered travel planner with real-time mapping
+🗺️ flutter_map + latlong2 for live GPS tracking
+🤖 AI-generated personalized itineraries
+🔥 Firebase Data Connect real-time sync
+📱 iOS & Android cross-platform support
+🧪 Local emulator-tested backend flows
+![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+</td>
+<td width="50%" valign="top">
+🚗 EcoRide Carpooling System
+Full-Stack MEAN Application
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+Secure ride-sharing with driver-rider matching
+🔐 bcrypt encryption for user authentication
+🗄️ Complete Node.js → MongoDB data pipeline
+📅 Ride scheduling & coordination engine
+🌱 Eco-conscious carpooling incentive system
+🔄 RESTful API architecture
+![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🐾 PetCare Adoption Platform
+Secure Web-Based Pet Adoption Ecosystem
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+Real-time pet adoption with live admin dashboard
+🔐 Firebase Authentication & Authorization
+📊 Real-time Admin Dashboard
+☁️ Cloud Firestore Integration
+📱 Responsive Multi-Device Design
+✅ Multi-step Form with Validation
+![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+</td>
+<td width="50%" valign="top">
+🐳 Docker WebApp Deployment
+Containerized Microservices Architecture
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+Production-grade containerized deployment
+📦 Multi-Container Setup via Docker Compose
+🚀 Scalable horizontal deployment strategy
+🔒 Isolated network environments
+⚙️ CI/CD ready infrastructure pipeline
+🌐 Nginx reverse proxy configuration
+![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+</td>
+</tr>
+</table>
+---
+🏅 Oracle Cloud Infrastructure Certifications
+<div align="center">
+> *Verify active badges · [Full Certification Repository →](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle)*
+![CERTIFIED](https://img.shields.io/badge/STATUS-CERTIFIED-00F5D4?style=for-the-badge)
+![ORACLE CLOUD](https://img.shields.io/badge/ORACLE-CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F80000,50:00F5D4,100:4285F4&height=120&section=footer" alt="Footer" />
-
+🤖 AI & Machine Learning	☁️ Cloud & Architecture	⚙️ DevOps & Networking
+![OCI AI Foundations](https://img.shields.io/badge/OCI_AI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)	![OCI Foundations](https://img.shields.io/badge/OCI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)	![OCI DevOps](https://img.shields.io/badge/OCI_DevOps_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)
+![OCI GenAI](https://img.shields.io/badge/OCI_Generative_AI-F80000?style=flat-square&logo=oracle&logoColor=white)	![OCI Multicloud](https://img.shields.io/badge/OCI_Multicloud_Architect-F80000?style=flat-square&logo=oracle&logoColor=white)	![OCI Networking](https://img.shields.io/badge/OCI_Networking-F80000?style=flat-square&logo=oracle&logoColor=white)
+	![Data Mgmt](https://img.shields.io/badge/Cloud_Data_Management-F80000?style=flat-square&logo=oracle&logoColor=white)	
+</div>
+<br/>
+Badge	Certification	Provider
+☁️	Google Cloud Data Analytics Certificate	Google
+☁️	AWS Cloud Practitioner Essentials	Amazon
+🐳	Introduction to Containers: Docker, Kubernetes & OpenShift	Coursera / IBM
+🐧	Hands-on Linux Commands & Shell Scripting	Coursera / IBM
+🎓	Internshala Student Partner	Internshala
+---
+🌟 Research & Global Achievements
+<div align="center">
+🏆	Achievement	Metric
+🥇	GDG Solution Challenge — National Finalist	Top 3% · #105 of 3,700+ teams
+⭐	Google Cloud Skills Boost	Gold Tier status
+🎮	Knives Out — All Servers Leaderboard	#3 Globally · Legendary Mars · Season 47
+💻	DSA Problem Solving	200+ on LeetCode & GeeksForGeeks
+📝	GRE General Test	324 · Quant: 168/170
+📄	Research Paper (AIRIMF)	AI-Based Risk Identification & Mitigation Framework
+🏍️	Himachal Pradesh Motorcycle Expedition	Tosh · Kasauli · Burwa · Dalang
+</div>
+---
+🌍 Languages
+<div align="center">
+Language	Level	Badge
+🇬🇧 English	Fluent	![English](https://img.shields.io/badge/English-Fluent-00F5D4?style=flat-square)
+🇮🇳 Telugu	Native	![Telugu](https://img.shields.io/badge/Telugu-Native-FF9900?style=flat-square)
+🇮🇳 Hindi	Fluent	![Hindi](https://img.shields.io/badge/Hindi-Fluent-4285F4?style=flat-square)
+🇯🇵 Japanese	JLPT N4 (Preparing)	![Japanese](https://img.shields.io/badge/Japanese-JLPT_N4-F80000?style=flat-square)
+🇨🇳 Chinese	HSK 1 Basics	![Chinese](https://img.shields.io/badge/Chinese-HSK_1-7B42BC?style=flat-square)
+</div>
+---
+⚡ Beyond the Code
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+🎮 Gaming
+Knives Out — `#3 Globally`
+Legendary Mars · Season 47
+Also plays:
+Genshin Impact · Call of Duty
+Free Fire MAX
+</td>
+<td width="33%" align="center" valign="top">
+🇯🇵 Japanese Culture
+Studying for JLPT N4
+NPTEL Japanese Language Course
+Fan of Tokusatsu:
+Kamen Rider · Ultraman
+Ryukendo
+</td>
+<td width="33%" align="center" valign="top">
+✈️ Aviation
+Enthusiast & frequent flyer
+IndiGo · Air India
+Documents flights, airports
+& aviation experiences across India
+</td>
+</tr>
+</table>
+---
+📊 GitHub Performance Metrics
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=E8EFF8&ring_color=F80000" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" alt="GitHub Streak" width="48%" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E8EFF8&langs_count=10" alt="Top Languages" width="52%" />
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=4285F4&point=F80000&area=true" alt="Activity Graph" width="95%" />
+</div>
+---
+<div align="center">
+💬 Let's Connect & Build Together
+From Visakhapatnam to the cloud edge — automating the future, one pipeline at a time.
+<br/>
+![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,25:F80000,50:7B42BC,75:00F5D4,100:4285F4&height=140&section=footer&animation=twinkling" alt="Footer" />
 </div>
