@@ -81,7 +81,7 @@
 
 <div align="center">
 
-| AWS | GCP | Oracle Cloud | Azure | Firebase | Vercel | Netlify |
+| AWS | GCP | Oracle Cloud | Azure | Firebase | DigitalOcean | Vercel | Netlify |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=aws" width="50"/> | <img src="https://skillicons.dev/icons?i=gcp" width="50"/> | <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=azure" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> | <img src="https://skillicons.dev/icons?i=digitalocean" width="50"/> | <img src="https://skillicons.dev/icons?i=vercel" width="50"/> | <img src="https://skillicons.dev/icons?i=netlify" width="50"/> |
 
@@ -129,7 +129,8 @@
 
 <div align="center">
 
-| Flutter | React Native | Firebase | Material UI |
+| Flutter | Android | Android Studio | React Native | Firebase | Material UI |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=flutter" width="50"/> | <img src="https://skillicons.dev/icons?i=android" width="50"/> | <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> | <img src="https://skillicons.dev/icons?i=materialui" width="50"/> |
 
 </div>
@@ -140,7 +141,8 @@
 
 <div align="center">
 
-| TensorFlow | PyTorch | OpenCV |
+| TensorFlow | PyTorch | OpenCV | ONNX | TensorRT | Qiskit |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> | <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> | <img src="https://skillicons.dev/icons?i=opencv" width="50"/> | <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/> | <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> | <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/> |
 
 </div>
@@ -151,7 +153,8 @@
 
 <div align="center">
 
-| MySQL | PostgreSQL | MongoDB | SQLite | Firestore |
+| MySQL | PostgreSQL | MongoDB | Redis | SQLite | Firestore |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=postgres" width="50"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="50"/> | <img src="https://skillicons.dev/icons?i=redis" width="50"/> | <img src="https://skillicons.dev/icons?i=sqlite" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> |
 
 </div>
@@ -170,6 +173,15 @@
 
 ---
 
+### 📈 Monitoring & Observability
+
+<div align="center">
+
+| Prometheus | Grafana | ELK Stack | Datadog | Sentry | New Relic |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/> | <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> | <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/> | <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/> | <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/> | <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/> |
+
+</div>
 
 ---
 
@@ -267,6 +279,25 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🐾 PetCare Adoption Platform
+**Secure Web-Based Pet Adoption Ecosystem**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Real-time pet adoption with live admin dashboard**
+
+- 🔐 Firebase Authentication & Authorization
+- 📊 Real-time Admin Dashboard
+- ☁️ Cloud Firestore Integration
+- 📱 Responsive Multi-Device Design
+- ✅ Multi-step Form with Validation
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🐳 Docker WebApp Deployment
 **Containerized Microservices Architecture**
@@ -377,13 +408,17 @@ Free Fire MAX
 ### 🇯🇵 Japanese Culture
 Studying for **JLPT N4**
 NPTEL Japanese Language Course
-### mandarin language Basics
+
+Fan of Tokusatsu:
+Kamen Rider · Ultraman
+Ryukendo
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### ✈️ Aviation
 Enthusiast & frequent flyer
+**IndiGo · Air India**
 
 Documents flights, airports
 & aviation experiences across India
@@ -394,6 +429,22 @@ Documents flights, airports
 
 ---
 
+## 📊 GitHub Performance Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=E8EFF8&ring_color=F80000" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" alt="GitHub Streak" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E8EFF8&langs_count=10" alt="Top Languages" width="52%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=4285F4&point=F80000&area=true" alt="Activity Graph" width="95%" />
+
+</div>
 
 ---
 
