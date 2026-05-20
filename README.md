@@ -40,6 +40,7 @@ I specialize in automating distributed multicloud architectures and building fau
 <details>
 <summary><b>💻 Languages & Frameworks</b></summary>
 <br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -102,15 +103,3 @@ I specialize in automating distributed multicloud architectures and building fau
 * ☁️ **Google Cloud Skill:** Reached **Gold Tier** status for extensive completion of hands-on cloud labs and quests.
 * 📄 **Working Paper (AIRIMF):** Authored an *AI-Based Risk Identification and Mitigation Framework* leveraging predictive algorithms for software project management.
 * 💻 **Algorithmic Problem Solving:** Conquered **200+** Data Structures and Algorithms problems across LeetCode and GeeksForGeeks.
-
----
-
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</div>
