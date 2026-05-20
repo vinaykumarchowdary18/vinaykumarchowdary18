@@ -81,7 +81,7 @@
 
 <div align="center">
 
-| AWS | GCP | Oracle Cloud | Azure | Firebase | DigitalOcean | Vercel | Netlify |
+| AWS | GCP | Oracle Cloud | Azure | Firebase | Vercel | Netlify |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=aws" width="50"/> | <img src="https://skillicons.dev/icons?i=gcp" width="50"/> | <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=azure" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> | <img src="https://skillicons.dev/icons?i=digitalocean" width="50"/> | <img src="https://skillicons.dev/icons?i=vercel" width="50"/> | <img src="https://skillicons.dev/icons?i=netlify" width="50"/> |
 
@@ -130,7 +130,6 @@
 <div align="center">
 
 | Flutter | React Native | Firebase | Material UI |
-|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=flutter" width="50"/> | <img src="https://skillicons.dev/icons?i=android" width="50"/> | <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> | <img src="https://skillicons.dev/icons?i=materialui" width="50"/> |
 
 </div>
@@ -142,7 +141,6 @@
 <div align="center">
 
 | TensorFlow | PyTorch | OpenCV |
-|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> | <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> | <img src="https://skillicons.dev/icons?i=opencv" width="50"/> | <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/> | <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> | <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/> |
 
 </div>
@@ -154,7 +152,6 @@
 <div align="center">
 
 | MySQL | PostgreSQL | MongoDB | SQLite | Firestore |
-|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=postgres" width="50"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="50"/> | <img src="https://skillicons.dev/icons?i=redis" width="50"/> | <img src="https://skillicons.dev/icons?i=sqlite" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> |
 
 </div>
