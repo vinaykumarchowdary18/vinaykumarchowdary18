@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+TensorRT+·+ONNX;🔬+Quantum+Computing+%7C+Qiskit+·+NetOps+Automation;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+PyTorch+·+TensorFlow;🔬+Quantum+Computing+%7C+NetOps+Automation;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)](https://git.io/typing-svg)
 
 <br/>
 
@@ -46,7 +46,7 @@
   - NetOps Automation
 
 🚀 Currently:
-  - Deepfake Detection Capstone (97-99% AUC)
+  - Deepfake Detection Capstone (94.4% Accuracy)
   - Mastering Kubernetes & TensorRT
   - Planning Masters in CS abroad
   - Preparing for JLPT N4 Japanese
@@ -93,9 +93,9 @@
 
 <div align="center">
 
-| Docker | Kubernetes | Terraform | Jenkins | Ansible | ArgoCD | GitHub Actions | GitLab CI |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=docker" width="50"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="50"/> | <img src="https://skillicons.dev/icons?i=terraform" width="50"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="50"/> | <img src="https://skillicons.dev/icons?i=ansible" width="50"/> | <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="50"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="50"/> |
+| Docker | Kubernetes | Terraform | Jenkins | GitHub Actions | GitLab CI |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=docker" width="50"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="50"/> | <img src="https://skillicons.dev/icons?i=terraform" width="50"/> | <img src="https://skillicons.dev/icons?i=jenkins" width="50"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="50"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="50"/> |
 
 </div>
 
@@ -129,9 +129,9 @@
 
 <div align="center">
 
-| Flutter | Android | Android Studio | React Native | Firebase | Material UI |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=flutter" width="50"/> | <img src="https://skillicons.dev/icons?i=android" width="50"/> | <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> | <img src="https://skillicons.dev/icons?i=materialui" width="50"/> |
+| Flutter | React Native | Firebase | Material UI |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=flutter" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> | <img src="https://skillicons.dev/icons?i=materialui" width="50"/> |
 
 </div>
 
@@ -141,9 +141,9 @@
 
 <div align="center">
 
-| TensorFlow | PyTorch | OpenCV | ONNX | TensorRT | Qiskit |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> | <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> | <img src="https://skillicons.dev/icons?i=opencv" width="50"/> | <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/> | <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> | <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/> |
+| TensorFlow | PyTorch | OpenCV |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> | <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> | <img src="https://skillicons.dev/icons?i=opencv" width="50"/> |
 
 </div>
 
@@ -153,9 +153,9 @@
 
 <div align="center">
 
-| MySQL | PostgreSQL | MongoDB | Redis | SQLite | Firestore |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=postgres" width="50"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="50"/> | <img src="https://skillicons.dev/icons?i=redis" width="50"/> | <img src="https://skillicons.dev/icons?i=sqlite" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> |
+| MySQL | PostgreSQL | MongoDB | SQLite | Firestore |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=postgres" width="50"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="50"/> | <img src="https://skillicons.dev/icons?i=sqlite" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> |
 
 </div>
 
@@ -165,9 +165,9 @@
 
 <div align="center">
 
-| Git | GitHub | GitLab | Linux | VS Code | IntelliJ | Nginx | Postman |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="50"/> | <img src="https://skillicons.dev/icons?i=linux" width="50"/> | <img src="https://skillicons.dev/icons?i=vscode" width="50"/> | <img src="https://skillicons.dev/icons?i=idea" width="50"/> | <img src="https://skillicons.dev/icons?i=nginx" width="50"/> | <img src="https://skillicons.dev/icons?i=postman" width="50"/> |
+| Git | GitHub | GitLab | Linux | VS Code | Nginx | Postman |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="50"/> | <img src="https://skillicons.dev/icons?i=linux" width="50"/> | <img src="https://skillicons.dev/icons?i=vscode" width="50"/> | <img src="https://skillicons.dev/icons?i=nginx" width="50"/> | <img src="https://skillicons.dev/icons?i=postman" width="50"/> |
 
 </div>
 
@@ -196,15 +196,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 **Full-stack AI pipeline detecting GAN artifacts**
 
 - 🧠 EfficientNetV2-M (RGB) + CNN (DCT Frequency)
-- 🏆 **97–99% AUC** on FaceForensics++ benchmark
-- ⚡ ONNX → TensorRT for edge-speed inference
+- 🏆 **94.4% Accuracy** on FaceForensics++ (testing phase)
 - 🔬 GradCAM XAI heatmap visualizations
 - 🌐 Flask + SQLite real-time video upload app
 
@@ -279,26 +276,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 PetCare Adoption Platform
-**Secure Web-Based Pet Adoption Ecosystem**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Real-time pet adoption with live admin dashboard**
-
-- 🔐 Firebase Authentication & Authorization
-- 📊 Real-time Admin Dashboard
-- ☁️ Cloud Firestore Integration
-- 📱 Responsive Multi-Device Design
-- ✅ Multi-step Form with Validation
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🐳 Docker WebApp Deployment
 **Containerized Microservices Architecture**
 
@@ -366,7 +343,6 @@
 | 💻 | **DSA Problem Solving** | **200+** on LeetCode & GeeksForGeeks |
 | 📝 | **GRE General Test** | **324** · Quant: **168**/170 |
 | 📄 | **Research Paper (AIRIMF)** | AI-Based Risk Identification & Mitigation Framework |
-| 🏍️ | **Himachal Pradesh Motorcycle Expedition** | Tosh · Kasauli · Burwa · Dalang |
 
 </div>
 
@@ -392,7 +368,7 @@
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🎮 Gaming
 **Knives Out** — `#3 Globally`
@@ -403,7 +379,7 @@ Genshin Impact · Call of Duty
 Free Fire MAX
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🇯🇵 Japanese Culture
 Studying for **JLPT N4**
@@ -412,16 +388,6 @@ NPTEL Japanese Language Course
 Fan of Tokusatsu:
 Kamen Rider · Ultraman
 Ryukendo
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ✈️ Aviation
-Enthusiast & frequent flyer
-**IndiGo · Air India**
-
-Documents flights, airports
-& aviation experiences across India
 
 </td>
 </tr>
