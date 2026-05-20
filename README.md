@@ -12,17 +12,18 @@
 ---
 
 ### 👨‍💻 About Me & Global Mindset
-I specialize in automating distributed multicloud architectures and building fault-tolerant continuous deployment pipelines. I am highly passionate about the intersection of **Infrastructure-as-Code (IaC)** and **Edge AI**, specifically optimizing how generative and predictive models are deployed to edge networks without network latency.
 
-* 🎓 **Academics:** Excelled in specialized modules including Virtualization & Cloud Computing, Site Reliability Engineering (SRE), and Cloud Capstone. 
-* 🌍 **Polyglot / Languages:** * 🇬🇧 **English** (Fluent) | 🇮🇳 **Telugu** (Native) | 🇮🇳 **Hindi** (Fluent) 
-  * 🇯🇵 **Japanese** (JLPT N4 Level) | 🇨🇳 **Chinese** (HSK 1 Basics)
-* ✈️ **Beyond the Screen:** Aviation enthusiast, frequent traveler, and competitive gamer (Ranked **No. 3 Globally** in Knives Out Season 47).
+I specialize in **automating distributed multicloud architectures** and building **fault-tolerant continuous deployment pipelines**. My deep passion lies at the intersection of **Infrastructure‑as‑Code (IaC)** and **Edge AI**—optimizing how generative and predictive models are deployed to edge networks without latency.
+
+- 🎓 **Academics:** Excelled in Virtualization & Cloud Computing, Site Reliability Engineering (SRE), and Cloud Capstone.
+- 🌍 **Languages:**  
+  🇬🇧 English (Fluent) | 🇮🇳 Telugu (Native) | 🇮🇳 Hindi (Fluent)  
+  🇯🇵 Japanese (JLPT N4 Level) | 🇨🇳 Chinese (HSK 1 Basics)
+- ✈️ **Beyond the screen:** Aviation enthusiast, frequent traveler, and competitive gamer (Ranked **No. 3 Globally** in Knives Out Season 47).
 
 ---
 
 ### 🛠️ Comprehensive Tech Stack
-*Here is the infrastructure and application stack I use to build and deploy systems:*
 
 <details>
 <summary><b>☁️ Cloud & DevOps Infrastructure</b></summary>
@@ -30,6 +31,7 @@ I specialize in automating distributed multicloud architectures and building fau
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -67,55 +69,90 @@ I specialize in automating distributed multicloud architectures and building fau
 ---
 
 ### 🏅 Official Certifications
-*You can verify my active badges in my [Certifications Repository](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle).*
 
-* 🏆 **Oracle Cloud Infrastructure Multicloud Architect Associate**
-* 🏆 **Oracle Cloud Infrastructure DevOps Professional**
-* 🏆 **Oracle Cloud Infrastructure AI Foundations Associate**
-* 🏆 **Oracle Cloud Data Management Foundations Associate**
-* ☁️ **Google Cloud Data Analytics Certificate** * ☁️ **AWS Cloud Practitioner Essentials** * 🐧 **Hands-on Introduction to Linux Commands and Shell Scripting** *(Coursera)*
-* 🐳 **Introduction to Containers w/ Docker, Kubernetes & OpenShift** *(Coursera)*
+<div align="center">
+
+| AI & Machine Learning | Cloud & Architecture | DevOps & Networking |
+|:---------------------:|:--------------------:|:-------------------:|
+| ![OCI AI Foundations](https://img.shields.io/badge/OCI_AI_Foundations-4285F4?style=for-the-badge&logo=oracle&logoColor=white) | ![OCI Multicloud Architect](https://img.shields.io/badge/OCI_Multicloud_Architect-FF0000?style=for-the-badge&logo=oracle&logoColor=white) | ![OCI DevOps Professional](https://img.shields.io/badge/OCI_DevOps_Professional-FF9900?style=for-the-badge&logo=oracle&logoColor=white) |
+| ![OCI Generative AI](https://img.shields.io/badge/OCI_Generative_AI-34A853?style=for-the-badge&logo=oracle&logoColor=white) | ![OCI Data Management](https://img.shields.io/badge/OCI_Data_Management-1A73E8?style=for-the-badge&logo=oracle&logoColor=white) | ![OCI Networking](https://img.shields.io/badge/OCI_Networking-00C7B7?style=for-the-badge&logo=oracle&logoColor=white) |
+
+</div>
+
+*🎓 Additional: AWS Cloud Practitioner, Google Cloud Data Analytics, Hands‑on Linux & Shell Scripting, Introduction to Containers (Docker/K8s/OpenShift)*
 
 ---
 
-### 🚀 Architecture & Deployment Portfolio
+### 🚀 Featured Projects Portfolio
 
-#### 🕵️‍♂️ [Truth In Pixels: Dual-Branch Deepfake Detection System](https://github.com/vinaykumarchowdary18)
-* **Tech:** Python, EfficientNetV2-M, Flask, ONNX, TensorRT, OpenCV, GradCAM
-* **Impact:** Engineered a full-stack AI pipeline utilizing both spatial (RGB) and frequency (DCT) analysis to detect GAN artifacts (97% AUC on FaceForensics++). Orchestrated the deployment of the model via ONNX/TensorRT into a Flask web application with integrated SQLite prediction tracking.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🕵️‍♂️ Truth In Pixels</h3>
+        <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" /></p>
+        <p>Dual‑branch deepfake detection using spatial (RGB) + frequency (DCT) analysis. 97% AUC on FaceForensics++, deployed with ONNX/TensorRT into a Flask web app.</p>
+      </td>
+      <td width="50%">
+        <h3>🗳️ Secure Aadhaar Voting</h3>
+        <p><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat" /></p>
+        <p>Cloud‑native voting platform on GCP (Cloud Storage + Cloud SQL + IAM). 80% reduction in voter verification latency.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>🧭 Compass AI Travel Planner</h3>
+        <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat" /></p>
+        <p>Cross‑platform mobile app with AI‑generated itineraries, real‑time mapping (flutter_map), and Firebase Data Connect.</p>
+      </td>
+      <td width="50%">
+        <h3>🚗 EcoRide Carpooling</h3>
+        <p><img src="https://img.shields.io/badge/MEAN-404D59?style=flat" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat" /> <img src="https://img.shields.io/badge/bcrypt-525252?style=flat" /></p>
+        <p>Full‑stack ride‑sharing platform with Node.js + MongoDB, secure authentication (bcrypt), and encrypted data flow.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### 🗳️ [Secure Aadhaar Voting System](https://github.com/vinaykumarchowdary18)
-* **Tech:** Google Cloud Platform (GCP), Node.js, MySQL, Cloud Storage, IAM
-* **Impact:** Architected a cloud-native voting platform. Hosted the static frontend on GCP Cloud Storage and secured the backend via Cloud SQL with IAM database authentication. Reduced voter verification latency by 80% through structural optimizations.
+---
 
-#### 🧭 [Compass AI Travel Planner](https://github.com/vinaykumarchowdary18)
-* **Tech:** Flutter, Firebase Data Connect, latlong2
-* **Impact:** Developed a cross-platform mobile application utilizing AI-generated itineraries. Integrated `flutter_map` for real-time location mapping and configured local emulators for seamless backend data flow testing.
+### 📊 GitHub Performance Metrics
 
-#### 🚗 [EcoRide Carpooling System](https://github.com/vinaykumarchowdary18)
-* **Tech:** MEAN Stack (MongoDB, Express.js, Node.js), bcrypt
-* **Impact:** Engineered the complete data flow connecting the Node.js backend to a MongoDB instance for a secure ride-sharing platform. Implemented bcrypt encryption for robust user authentication.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" />
+</div>
+
+<div align="center">
+  
+| **151** | **Current Streak** | **5** |
+|:--------:|:------------------:|:-----:|
+| Total Contributions | May 20, 2026 | Longest Streak |
+| (Nov 2022 – Present) | | (Oct 2025) |
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinaykumarchowdary18&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" width="100%"/>
+</div>
 
 ---
 
 ### 🌟 Research & Global Achievements
-* 🏆 **GDG Solution Challenge (National Finalist):** Ranked in the **Top 3%** (Top 105 out of 3,700+ competing teams) for innovation and impact.
-* ☁️ **Google Cloud Skill:** Reached **Gold Tier** status for extensive completion of hands-on cloud labs and quests.
-* 📄 **Working Paper (AIRIMF):** Authored an *AI-Based Risk Identification and Mitigation Framework* leveraging predictive algorithms for software project management.
-* 💻 **Algorithmic Problem Solving:** Conquered **200+** Data Structures and Algorithms problems across LeetCode and GeeksForGeeks.
+
+- 🏆 **GDG Solution Challenge (National Finalist)** – Top 3% (Top 105 out of 3,700+ teams)
+- ☁️ **Google Cloud Gold Tier** – Completed 30+ hands‑on labs and skill quests
+- 📄 **Working Paper (AIRIMF)** – AI‑Based Risk Identification & Mitigation Framework for software project management
+- 💻 **200+ DSA problems** solved across LeetCode & GeeksForGeeks
+- 🎮 **Ranked #3 Globally** – Knives Out Season 47
 
 ---
 
-### 📊 Dynamic GitHub Activity
-<!-- These widgets update in real time, reflecting your live GitHub contributions -->
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="GitHub Activity Graph" width="100%"/>
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vinaykumarchowdary18&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" width="100%"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:F80000&height=120&section=footer&animation=twinkling" />
+  <p><i>“Automate everything, scale infinitely, secure by default, deploy fearlessly.”</i></p>
 </div>
