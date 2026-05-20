@@ -103,3 +103,19 @@ I specialize in automating distributed multicloud architectures and building fau
 * ☁️ **Google Cloud Skill:** Reached **Gold Tier** status for extensive completion of hands-on cloud labs and quests.
 * 📄 **Working Paper (AIRIMF):** Authored an *AI-Based Risk Identification and Mitigation Framework* leveraging predictive algorithms for software project management.
 * 💻 **Algorithmic Problem Solving:** Conquered **200+** Data Structures and Algorithms problems across LeetCode and GeeksForGeeks.
+
+---
+
+### 📊 Dynamic GitHub Activity
+<!-- These widgets update in real time, reflecting your live GitHub contributions -->
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="GitHub Activity Graph" width="100%"/>
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vinaykumarchowdary18&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" width="100%"/>
+  </a>
+</div>
