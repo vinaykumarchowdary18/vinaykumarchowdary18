@@ -54,7 +54,6 @@
   - Site Reliability Engineering
 
 🚀 Currently:
-  - Deepfake Detection Capstone (94.4% Accuracy)
   - Research: NETOPS-XAI Intrusion Detection
   - Planning Masters in CS abroad
   - Preparing for JLPT N4 Japanese
@@ -73,7 +72,6 @@
 
 ![GRE](https://img.shields.io/badge/GRE-324_(Quant_168%2F170)-00F5D4?style=flat-square)
 
-![Rank](https://img.shields.io/badge/Knives_Out-🏆_No.3_Globally-F80000?style=flat-square)
 
 ![GDG](https://img.shields.io/badge/GDG_Challenge-Top_3%25_National-4285F4?style=flat-square)
 
