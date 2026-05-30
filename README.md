@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+PyTorch+·+TensorFlow;🔬+Quantum+Computing+%7C+NetOps+Automation;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+PyTorch+·+TensorFlow;🔬+AIOps+%7C+Explainable+AI+%7C+Cloud+Reliability;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,6 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvkchowdary20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
 [![Oracle Certs](https://img.shields.io/badge/Oracle_Certs-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle)
+[![Phone](https://img.shields.io/badge/+91--9121303699-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919121303699)
 
 <br/>
 
@@ -32,22 +33,29 @@
 👤 Profile:
   name       : "Vinay Kumar Mandadi"
   title      : "Multicloud Architect & Edge AI Specialist"
-  education  : "B.Tech CSE @ LPU (Final Year)"
+  education  : "B.Tech CSE @ LPU (Expected 2026)"
+  university : "Lovely Professional University, Punjab"
   hometown   : "Visakhapatnam, Andhra Pradesh 🇮🇳"
-  location   : "Phagwara, Punjab (University)"
-  birthday   : "December 7, 2004 · Age 21"
+  email      : "mvkchowdary20@gmail.com"
+  phone      : "+91-9121303699"
 
 🎯 Expertise:
   - Cloud Architecture (GCP, AWS, OCI)
   - DevOps & CI/CD Automation
   - MLOps & Edge AI Deployment
   - Infrastructure as Code (Terraform)
-  - Quantum Computing (Qiskit)
+  - AIOps & Cloud Reliability Engineering
+  - Explainable AI (SHAP, GradCAM)
   - NetOps Automation
+
+📚 Focus Areas:
+  - Cloud Computing & Distributed Systems
+  - Applied Machine Learning
+  - Site Reliability Engineering
 
 🚀 Currently:
   - Deepfake Detection Capstone (94.4% Accuracy)
-  - Mastering Kubernetes & TensorRT
+  - Research: NETOPS-XAI Intrusion Detection
   - Planning Masters in CS abroad
   - Preparing for JLPT N4 Japanese
 
@@ -63,11 +71,80 @@
 
 <br/><br/>
 
-![GRE](https://img.shields.io/badge/GRE-324_(Quant_168/170)-00F5D4?style=flat-square)
+![GRE](https://img.shields.io/badge/GRE-324_(Quant_168%2F170)-00F5D4?style=flat-square)
 
 ![Rank](https://img.shields.io/badge/Knives_Out-🏆_No.3_Globally-F80000?style=flat-square)
 
 ![GDG](https://img.shields.io/badge/GDG_Challenge-Top_3%25_National-4285F4?style=flat-square)
+
+![Research](https://img.shields.io/badge/Research-3_Papers-7B42BC?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Research Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ Deepfake Detection — Deep Learning Framework
+**Accepted at 8BIC 2026** · *Co-author*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![EfficientNet](https://img.shields.io/badge/EfficientNetV2--M-00F5D4?style=flat-square)
+
+Developed a dual-branch deep learning framework (EfficientNetV2-M for RGB + CNN on DCT frequency domain) for synthetic media authentication. Achieves **94.4% accuracy** on FaceForensics++ with GradCAM XAI heatmap visualizations.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/Truth-In-Pixels)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 AIRIMF: AI-Driven Risk Identification & Mitigation
+**Sole Author** · *Software Risk Prediction*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-SHAP-7B42BC?style=flat-square)
+
+Leakage-free Random Forest pipeline with SMOTE for imbalanced software risk prediction using real-world GitHub ticket metadata (title, body, comments, NLP sentiment). Achieved **76% CV accuracy on VS Code**, **83% on React**.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 NETOPS-XAI: Explainable Intrusion Detection
+**Sole Author** · *Network Security + Explainable AI*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-00F5D4?style=flat-square)
+![CIC-IDS](https://img.shields.io/badge/CIC--IDS2017-Dataset-4285F4?style=flat-square)
+
+SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% in-domain accuracy**). Quantified catastrophic domain shift to UNSW-NB15 (31.9%). Applied Platt scaling to boost out-of-domain accuracy to **68.1%**.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Research Interests
+
+```
+• AIOps & Cloud Reliability Engineering
+• Predictive ML for Distributed Systems
+• Explainable AI (XAI)
+• Infrastructure-as-Code Automation
+• Synthetic Media Authentication
+• Network Security & Intrusion Detection
+```
 
 </td>
 </tr>
@@ -137,15 +214,17 @@
 
 ---
 
-### 🧠 AI / ML & Edge Intelligence
+### 🧠 AI / ML & Data Science
 
 <div align="center">
 
-| TensorFlow | PyTorch | OpenCV |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> | <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> | <img src="https://skillicons.dev/icons?i=opencv" width="50"/> |
+| TensorFlow | PyTorch | OpenCV | scikit-learn | pandas | NumPy |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/> | <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> | <img src="https://skillicons.dev/icons?i=opencv" width="50"/> | <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> | <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> |
 
 </div>
+
+> **Specializations:** Random Forest · SMOTE · SHAP (Explainable AI) · Feature Engineering · GradCAM · EfficientNetV2 · Platt Scaling
 
 ---
 
@@ -197,13 +276,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Full-stack AI pipeline detecting GAN artifacts**
 
 - 🧠 EfficientNetV2-M (RGB) + CNN (DCT Frequency)
-- 🏆 **94.4% Accuracy** on FaceForensics++ (testing phase)
+- 🏆 **94.4% Accuracy** on FaceForensics++
 - 🔬 GradCAM XAI heatmap visualizations
 - 🌐 Flask + SQLite real-time video upload app
+- 📄 Accepted at **8BIC 2026** Conference
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/Truth-In-Pixels)
 
@@ -234,7 +315,7 @@
 <td width="50%" valign="top">
 
 ### 🧭 Compass AI Travel Planner
-**Cross-Platform Mobile App**
+**Cross-Platform Mobile & Web App**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -263,9 +344,9 @@
 
 **Secure ride-sharing with driver-rider matching**
 
-- 🔐 bcrypt encryption for user authentication
+- 🔐 bcrypt encryption + session-based authentication
 - 🗄️ Complete Node.js → MongoDB data pipeline
-- 📅 Ride scheduling & coordination engine
+- 📅 Ride creation, booking & review modules
 - 🌱 Eco-conscious carpooling incentive system
 - 🔄 RESTful API architecture
 
@@ -295,39 +376,65 @@
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
 
 </td>
+<td width="50%" valign="top">
+
+### 📈 StockAI
+**Stock Market Analysis Web App**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Interactive market intelligence dashboard**
+
+- 📊 Interactive frontend dashboards
+- 🔥 Firebase hosting & real-time data
+- 📉 Market visualization components
+- 🧠 TypeScript-powered analysis logic
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🏅 Oracle Cloud Infrastructure Certifications
+## 🏅 Certifications
 
 <div align="center">
 
-> *Verify active badges · [Full Certification Repository →](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle)*
+> *Verify active badges · [Full Oracle Certification Repository →](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle)*
 
 ![CERTIFIED](https://img.shields.io/badge/STATUS-CERTIFIED-00F5D4?style=for-the-badge)
 ![ORACLE CLOUD](https://img.shields.io/badge/ORACLE-CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-<br/>
-
-| 🤖 AI & Machine Learning | ☁️ Cloud & Architecture | ⚙️ DevOps & Networking |
-|:---:|:---:|:---:|
-| ![OCI AI Foundations](https://img.shields.io/badge/OCI_AI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white) | ![OCI Foundations](https://img.shields.io/badge/OCI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white) | ![OCI DevOps](https://img.shields.io/badge/OCI_DevOps_Professional-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| ![OCI GenAI](https://img.shields.io/badge/OCI_Generative_AI-F80000?style=flat-square&logo=oracle&logoColor=white) | ![OCI Multicloud](https://img.shields.io/badge/OCI_Multicloud_Architect-F80000?style=flat-square&logo=oracle&logoColor=white) | ![OCI Networking](https://img.shields.io/badge/OCI_Networking-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| | ![Data Mgmt](https://img.shields.io/badge/Cloud_Data_Management-F80000?style=flat-square&logo=oracle&logoColor=white) | |
 
 </div>
 
 <br/>
 
-| Badge | Certification | Provider |
-|:---:|---|:---:|
-| ☁️ | **Google Cloud Data Analytics Certificate** | Google |
-| ☁️ | **AWS Cloud Practitioner Essentials** | Amazon |
-| 🐳 | **Introduction to Containers: Docker, Kubernetes & OpenShift** | Coursera / IBM |
-| 🐧 | **Hands-on Linux Commands & Shell Scripting** | Coursera / IBM |
-| 🎓 | **Internshala Student Partner** | Internshala |
+| Badge | Certification | Provider | Year |
+|:---:|---|:---:|:---:|
+| 🔴 | **OCI Multicloud Architect Professional** | Oracle | 2025 |
+| 🔴 | **OCI DevOps Professional** | Oracle | 2025 |
+| 🔴 | **OCI AI Foundations Associate** | Oracle | 2025 |
+| 🔴 | **OCI Data Platform Foundations** | Oracle | 2025 |
+| 🔴 | **OCI Generative AI** | Oracle | 2025 |
+| 🔴 | **OCI Networking** | Oracle | 2025 |
+| ☁️ | **Google Cloud Data Analytics Certificate** | Google | — |
+| 🟠 | **AWS Cloud Practitioner Essentials** | Amazon | — |
+| 🐳 | **Intro to Containers: Docker, Kubernetes & OpenShift** | Coursera / IBM | — |
+| 🐧 | **Hands-on Linux Commands & Shell Scripting** | Coursera / IBM | — |
+| 🎓 | **Internshala Student Partner** | Internshala | — |
+
+---
+
+## 🎓 Training & Coursework
+
+| Course | Focus | Grade/Result |
+|:---|:---|:---:|
+| **Google Cloud ACE Training** | Terraform, Infrastructure-as-Code, Cloud Operations | Outstanding |
+| **AWS Training** | AWS Fundamentals & Hands-on Labs (Programming Pathasala) | Completed |
+| **NPTEL Japanese Language** | Japanese language fundamentals | Completed |
 
 ---
 
@@ -341,8 +448,24 @@
 | ⭐ | **Google Cloud Skills Boost** | **Gold Tier** status |
 | 🎮 | **Knives Out — All Servers Leaderboard** | **#3 Globally** · Legendary Mars · Season 47 |
 | 💻 | **DSA Problem Solving** | **200+** on LeetCode & GeeksForGeeks |
-| 📝 | **GRE General Test** | **324** · Quant: **168**/170 |
-| 📄 | **Research Paper (AIRIMF)** | AI-Based Risk Identification & Mitigation Framework |
+| 📝 | **GRE General Test** | **324** · Quant: **168**/170 · Verbal: **156**/170 |
+| 📄 | **Deepfake Detection Research (8BIC 2026)** | Accepted · Co-author |
+| 📄 | **AIRIMF Research Paper** | AI-Based Risk Identification & Mitigation Framework |
+| 📄 | **NETOPS-XAI Research** | Explainable Intrusion Detection · SHAP-based |
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" alt="GitHub Streak" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=4285F4&point=F80000&area=true" alt="Activity Graph" width="95%" />
 
 </div>
 
@@ -354,10 +477,10 @@
 
 | Language | Level | Badge |
 |:---:|:---:|:---:|
-| 🇬🇧 English | Fluent | ![English](https://img.shields.io/badge/English-Fluent-00F5D4?style=flat-square) |
+| 🇬🇧 English | Full Professional Proficiency (MOI Cert) | ![English](https://img.shields.io/badge/English-Professional-00F5D4?style=flat-square) |
 | 🇮🇳 Telugu | Native | ![Telugu](https://img.shields.io/badge/Telugu-Native-FF9900?style=flat-square) |
 | 🇮🇳 Hindi | Fluent | ![Hindi](https://img.shields.io/badge/Hindi-Fluent-4285F4?style=flat-square) |
-| 🇯🇵 Japanese | JLPT N4 (Preparing) | ![Japanese](https://img.shields.io/badge/Japanese-JLPT_N4-F80000?style=flat-square) |
+| 🇯🇵 Japanese | Elementary · JLPT N4 (Preparing) | ![Japanese](https://img.shields.io/badge/Japanese-JLPT_N4-F80000?style=flat-square) |
 | 🇨🇳 Chinese | HSK 1 Basics | ![Chinese](https://img.shields.io/badge/Chinese-HSK_1-7B42BC?style=flat-square) |
 
 </div>
@@ -375,8 +498,7 @@
 Legendary Mars · Season 47
 
 Also plays:
-Genshin Impact · Call of Duty
-Free Fire MAX
+Genshin Impact · Call of Duty · Free Fire MAX
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -386,31 +508,11 @@ Studying for **JLPT N4**
 NPTEL Japanese Language Course
 
 Fan of Tokusatsu:
-Kamen Rider · Ultraman
-Ryukendo
+Kamen Rider · Ultraman · Ryukendo
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Performance Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=E8EFF8&ring_color=F80000" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" alt="GitHub Streak" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E8EFF8&langs_count=10" alt="Top Languages" width="52%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=4285F4&point=F80000&area=true" alt="Activity Graph" width="95%" />
-
-</div>
 
 ---
 
