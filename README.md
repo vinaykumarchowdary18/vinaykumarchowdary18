@@ -71,10 +71,7 @@
 <br/><br/>
 
 ![GRE](https://img.shields.io/badge/GRE-324_(Quant_168%2F170)-00F5D4?style=flat-square)
-
-
 ![GDG](https://img.shields.io/badge/GDG_Challenge-Top_3%25_National-4285F4?style=flat-square)
-
 ![Research](https://img.shields.io/badge/Research-3_Papers-7B42BC?style=flat-square)
 
 </td>
@@ -104,15 +101,15 @@ Developed a dual-branch deep learning framework (EfficientNetV2-M for RGB + CNN 
 <td width="50%" valign="top">
 
 ### 📊 AIRIMF: AI-Driven Risk Identification & Mitigation
-**Sole Author** · *Software Risk Prediction*
+**Sole Author** · *Submitted ICMACC 2026*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-SHAP-7B42BC?style=flat-square)
 
-Leakage-free Random Forest pipeline with SMOTE for imbalanced software risk prediction using real-world GitHub ticket metadata (title, body, comments, NLP sentiment). Achieved **76% CV accuracy on VS Code**, **83% on React**.
+Leakage-free Random Forest pipeline with SMOTE for imbalanced software risk prediction using real-world GitHub ticket metadata (title, body, comments, NLP sentiment). **76% CV accuracy on VS Code**, **83% on React**. Platt scaling cuts ECE 5× on cross-project calibration.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/AIRIMF)
 
 </td>
 </tr>
@@ -120,15 +117,15 @@ Leakage-free Random Forest pipeline with SMOTE for imbalanced software risk pred
 <td width="50%" valign="top">
 
 ### 🔐 NETOPS-XAI: Explainable Intrusion Detection
-**Sole Author** · *Network Security + Explainable AI*
+**Sole Author** · *Submitted PIMRC 2026*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-00F5D4?style=flat-square)
 ![CIC-IDS](https://img.shields.io/badge/CIC--IDS2017-Dataset-4285F4?style=flat-square)
 
-SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% in-domain accuracy**). Quantified catastrophic domain shift to UNSW-NB15 (31.9%). Applied Platt scaling to boost out-of-domain accuracy to **68.1%**.
+SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% in-domain accuracy**). Quantified catastrophic domain shift to UNSW-NB15 (31.9%). Platt scaling recovered **68.1% OOD accuracy**. Deployed as FastAPI endpoint + Streamlit dashboard.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/NetOps-XAI)
 
 </td>
 <td width="50%" valign="top">
@@ -180,9 +177,9 @@ SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% i
 
 <div align="center">
 
-| Python | JavaScript | TypeScript | Java | C++ | Bash | Go | Kotlin |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python" width="50"/> | <img src="https://skillicons.dev/icons?i=js" width="50"/> | <img src="https://skillicons.dev/icons?i=ts" width="50"/> | <img src="https://skillicons.dev/icons?i=java" width="50"/> | <img src="https://skillicons.dev/icons?i=cpp" width="50"/> | <img src="https://skillicons.dev/icons?i=bash" width="50"/> | <img src="https://skillicons.dev/icons?i=go" width="50"/> | <img src="https://skillicons.dev/icons?i=kotlin" width="50"/> |
+| Python | JavaScript | TypeScript | Java | Bash | Go |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python" width="50"/> | <img src="https://skillicons.dev/icons?i=js" width="50"/> | <img src="https://skillicons.dev/icons?i=ts" width="50"/> | <img src="https://skillicons.dev/icons?i=java" width="50"/> | <img src="https://skillicons.dev/icons?i=bash" width="50"/> | <img src="https://skillicons.dev/icons?i=go" width="50"/> |
 
 </div>
 
@@ -192,21 +189,9 @@ SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% i
 
 <div align="center">
 
-| Node.js | React | Next.js | Express | Flask | HTML5 | CSS3 | Tailwind | Bootstrap |
+| Node.js | React | Next.js | Vue | Express | Flask | HTML5 | CSS3 | Tailwind |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="50"/> | <img src="https://skillicons.dev/icons?i=express" width="50"/> | <img src="https://skillicons.dev/icons?i=flask" width="50"/> | <img src="https://skillicons.dev/icons?i=html" width="50"/> | <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50"/> | <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/> |
-
-</div>
-
----
-
-### 📱 Mobile & Cross-Platform
-
-<div align="center">
-
-| Flutter | React Native | Firebase | Material UI |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=flutter" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=firebase" width="50"/> | <img src="https://skillicons.dev/icons?i=materialui" width="50"/> |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="50"/> | <img src="https://skillicons.dev/icons?i=vue" width="50"/> | <img src="https://skillicons.dev/icons?i=express" width="50"/> | <img src="https://skillicons.dev/icons?i=flask" width="50"/> | <img src="https://skillicons.dev/icons?i=html" width="50"/> | <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50"/> |
 
 </div>
 
@@ -242,9 +227,9 @@ SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% i
 
 <div align="center">
 
-| Git | GitHub | GitLab | Linux | VS Code | Nginx | Postman |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> | <img src="https://skillicons.dev/icons?i=gitlab" width="50"/> | <img src="https://skillicons.dev/icons?i=linux" width="50"/> | <img src="https://skillicons.dev/icons?i=vscode" width="50"/> | <img src="https://skillicons.dev/icons?i=nginx" width="50"/> | <img src="https://skillicons.dev/icons?i=postman" width="50"/> |
+| Git | GitHub | Linux | VS Code | Nginx | Postman |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> | <img src="https://skillicons.dev/icons?i=linux" width="50"/> | <img src="https://skillicons.dev/icons?i=vscode" width="50"/> | <img src="https://skillicons.dev/icons?i=nginx" width="50"/> | <img src="https://skillicons.dev/icons?i=postman" width="50"/> |
 
 </div>
 
@@ -254,142 +239,82 @@ SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% i
 
 <div align="center">
 
-| Prometheus | Grafana | ELK Stack | Datadog | Sentry | New Relic |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/> | <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> | <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/> | <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/> | <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/> | <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/> |
+| Prometheus | Grafana | ELK Stack | Datadog |
+|:---:|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/> | <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> | <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/> | <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/> |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects Portfolio
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ Truth In Pixels
-**Dual-Branch Deepfake Detection System** · *Capstone*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Full-stack AI pipeline detecting GAN artifacts**
-
-- 🧠 EfficientNetV2-M (RGB) + CNN (DCT Frequency)
-- 🏆 **94.4% Accuracy** on FaceForensics++
-- 🔬 GradCAM XAI heatmap visualizations
-- 🌐 Flask + SQLite real-time video upload app
-- 📄 Accepted at **8BIC 2026** Conference
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/Truth-In-Pixels)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗳️ Secure Aadhaar Voting System
-**Cloud-Native Voting Platform on GCP**
-
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![IAM](https://img.shields.io/badge/Cloud_IAM-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-**Aadhaar-authenticated cloud voting infrastructure**
-
-- ☁️ Static frontend on GCP Cloud Storage
-- 🔐 IAM database auth + Cloud SQL backend
-- ⚡ **80% reduction** in voter verification latency
-- 📊 Real-time result dashboards
-- 🏗️ Role-based access control & audit logging
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 Compass AI Travel Planner
-**Cross-Platform Mobile & Web App**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**AI-powered travel planner with real-time mapping**
-
-- 🗺️ flutter_map + latlong2 for live GPS tracking
-- 🤖 AI-generated personalized itineraries
-- 🔥 Firebase Data Connect real-time sync
-- 📱 iOS & Android cross-platform support
-- 🧪 Local emulator-tested backend flows
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 EcoRide Carpooling System
-**Full-Stack MEAN Application**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-
-**Secure ride-sharing with driver-rider matching**
-
-- 🔐 bcrypt encryption + session-based authentication
-- 🗄️ Complete Node.js → MongoDB data pipeline
-- 📅 Ride creation, booking & review modules
-- 🌱 Eco-conscious carpooling incentive system
-- 🔄 RESTful API architecture
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐳 Docker WebApp Deployment
-**Containerized Microservices Architecture**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**Production-grade containerized deployment**
-
-- 📦 Multi-Container Setup via Docker Compose
-- 🚀 Scalable horizontal deployment strategy
-- 🔒 Isolated network environments
-- ⚙️ CI/CD ready infrastructure pipeline
-- 🌐 Nginx reverse proxy configuration
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 StockAI
-**Stock Market Analysis Web App**
+### 📈 StockAI — Stock Market Visualization
+**Live at [stockai338211.web.app](https://stockai338211.web.app)**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Interactive market intelligence dashboard**
+- 📊 TypeScript strict typing from day one — API shape mismatches caught at compile time, not runtime
+- ⚛️ React Context for global state; async data fetching with loading states, error boundaries, graceful degradation
+- 🚀 Automated CI pipeline to Firebase Hosting — every merged commit reaches production without manual steps
 
-- 📊 Interactive frontend dashboards
-- 🔥 Firebase hosting & real-time data
-- 📉 Market visualization components
-- 🧠 TypeScript-powered analysis logic
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/StockAI)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
+</td>
+<td width="50%" valign="top">
+
+### 🚗 EcoRide — Carpooling & RideShare Platform
+**Full-Stack TypeScript Application**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+- 🔐 Session-based auth end-to-end: token refresh, redirect-on-expiry, error states across all protected routes
+- 📋 REST API contracts defined before UI components — keeps state management predictable
+- ✅ Client-side form validation on every user flow before any server round-trip
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/EcoRide)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 Compass AI — Travel Itinerary Planner
+**Firebase Web App**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+- 🔄 Firebase Realtime Database for live itinerary sync across tabs without page reload
+- ⚡ Loading skeleton components maintain perceived responsiveness during database reads
+- 🤖 Generative AI API integration for itinerary suggestions with graceful degradation
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/Compass-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗳️ Secure Aadhaar Voting Platform
+**Cloud-Native GCP Application**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+- ☁️ App Engine auto-scaling + Cloud SQL + IAM least-privilege
+- 🔐 Flask face-verification API via Cloud Vision API for similarity scoring
+- 🛡️ HTTPS throughout; secrets in environment variables, not source code
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/Aadhaar-Voting)
 
 </td>
 </tr>
@@ -419,39 +344,38 @@ SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% i
 | 🔴 | **OCI Generative AI** | Oracle | 2025 |
 | 🔴 | **OCI Networking** | Oracle | 2025 |
 | ☁️ | **Google Cloud Data Analytics Certificate** | Google | — |
+| ☁️ | **Google Cloud ACE Training** | Google | 2025 |
 | 🟠 | **AWS Cloud Practitioner Essentials** | Amazon | — |
 | 🐳 | **Intro to Containers: Docker, Kubernetes & OpenShift** | Coursera / IBM | — |
 | 🐧 | **Hands-on Linux Commands & Shell Scripting** | Coursera / IBM | — |
-| 🎓 | **Internshala Student Partner** | Internshala | — |
 
 ---
 
-## 🎓 Training & Coursework
-
-| Course | Focus | Grade/Result |
-|:---|:---|:---:|
-| **Google Cloud ACE Training** | Terraform, Infrastructure-as-Code, Cloud Operations | Outstanding |
-| **AWS Training** | AWS Fundamentals & Hands-on Labs (Programming Pathasala) | Completed |
-| **NPTEL Japanese Language** | Japanese language fundamentals | Completed |
-
----
-
-## 🌟 Research & Global Achievements
+## 🌟 Achievements
 
 <div align="center">
 
 | 🏆 | Achievement | Metric |
 |:---:|---|:---:|
 | 🥇 | **GDG Solution Challenge — National Finalist** | **Top 3%** · #105 of 3,700+ teams |
-| ⭐ | **Google Cloud Skills Boost** | **Gold Tier** status |
-| 🎮 | **Knives Out — All Servers Leaderboard** | **#3 Globally** · Legendary Mars · Season 47 |
+| ⭐ | **Google Cloud Skills Boost** | **Gold Tier** |
 | 💻 | **DSA Problem Solving** | **200+** on LeetCode & GeeksForGeeks |
 | 📝 | **GRE General Test** | **324** · Quant: **168**/170 · Verbal: **156**/170 |
-| 📄 | **Deepfake Detection Research (8BIC 2026)** | Accepted · Co-author |
-| 📄 | **AIRIMF Research Paper** | AI-Based Risk Identification & Mitigation Framework |
-| 📄 | **NETOPS-XAI Research** | Explainable Intrusion Detection · SHAP-based |
+| 📄 | **Deepfake Detection Research** | Accepted · 8BIC 2026 · Co-author |
+| 📄 | **AIRIMF Research Paper** | Submitted · ICMACC 2026 · Sole author |
+| 📄 | **NETOPS-XAI Research** | Submitted · PIMRC 2026 · Sole author |
 
 </div>
+
+---
+
+## 🎓 Training & Coursework
+
+| Course | Focus | Result |
+|:---|:---|:---:|
+| **Google Cloud ACE Training** | Terraform, Infrastructure-as-Code, Cloud Operations | Outstanding |
+| **AWS Training** | AWS Fundamentals & Hands-on Labs | Completed |
+| **NPTEL Japanese Language** | Japanese language fundamentals | Completed |
 
 ---
 
@@ -478,39 +402,9 @@ SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% i
 | 🇬🇧 English | Full Professional Proficiency (MOI Cert) | ![English](https://img.shields.io/badge/English-Professional-00F5D4?style=flat-square) |
 | 🇮🇳 Telugu | Native | ![Telugu](https://img.shields.io/badge/Telugu-Native-FF9900?style=flat-square) |
 | 🇮🇳 Hindi | Fluent | ![Hindi](https://img.shields.io/badge/Hindi-Fluent-4285F4?style=flat-square) |
-| 🇯🇵 Japanese | Elementary · JLPT N4 (Preparing) | ![Japanese](https://img.shields.io/badge/Japanese-JLPT_N4-F80000?style=flat-square) |
-| 🇨🇳 Chinese | HSK 1 Basics | ![Chinese](https://img.shields.io/badge/Chinese-HSK_1-7B42BC?style=flat-square) |
+| 🇯🇵 Japanese | Elementary · JLPT N4 (Preparing) | ![Japanese](https://img.shields.io/badge/Japanese-JLPT_N4_Target-F80000?style=flat-square) |
 
 </div>
-
----
-
-## ⚡ Beyond the Code
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🎮 Gaming
-**Knives Out** — `#3 Globally`
-Legendary Mars · Season 47
-
-Also plays:
-Genshin Impact · Call of Duty · Free Fire MAX
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🇯🇵 Japanese Culture
-Studying for **JLPT N4**
-NPTEL Japanese Language Course
-
-Fan of Tokusatsu:
-Kamen Rider · Ultraman · Ryukendo
-
-</td>
-</tr>
-</table>
 
 ---
 
