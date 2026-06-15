@@ -101,7 +101,7 @@ Developed a dual-branch deep learning framework (EfficientNetV2-M for RGB + CNN 
 <td width="50%" valign="top">
 
 ### 📊 AIRIMF: AI-Driven Risk Identification & Mitigation
-**Sole Author** · *Submitted ICMACC 2026* · **Published on Zenodo**
+**Sole Author** · *Submitted ICMACC 2026* · **Preprint on Zenodo**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -109,7 +109,7 @@ Developed a dual-branch deep learning framework (EfficientNetV2-M for RGB + CNN 
 
 Leakage-free Random Forest pipeline with SMOTE for imbalanced software risk prediction using real-world GitHub ticket metadata (title, body, comments, NLP sentiment). **76% CV accuracy on VS Code**, **83% on React**. Platt scaling cuts ECE 5× on cross-project calibration.
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20691021-blue?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.20691021)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20691021-024BBB?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.20691021)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/AIRIMF)
 
 </td>
@@ -118,7 +118,7 @@ Leakage-free Random Forest pipeline with SMOTE for imbalanced software risk pred
 <td width="50%" valign="top">
 
 ### 🔐 NETOPS-XAI: Explainable Intrusion Detection
-**Sole Author** · *Submitted PIMRC 2026*
+**Sole Author** · *Submitted IS'26 IEEE & PIMRC 2026* · **Preprint on Zenodo**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-00F5D4?style=flat-square)
@@ -126,6 +126,7 @@ Leakage-free Random Forest pipeline with SMOTE for imbalanced software risk pred
 
 SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% in-domain accuracy**). Quantified catastrophic domain shift to UNSW-NB15 (31.9%). Platt scaling recovered **68.1% OOD accuracy**. Deployed as FastAPI endpoint + Streamlit dashboard.
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20698544-024BBB?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.20698544)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/NetOps-XAI)
 
 </td>
@@ -363,8 +364,8 @@ SHAP-based explainable multi-class intrusion detection on CIC-IDS2017 (**98.8% i
 | 💻 | **DSA Problem Solving** | **200+** on LeetCode & GeeksForGeeks |
 | 📝 | **GRE General Test** | **324** · Quant: **168**/170 · Verbal: **156**/170 |
 | 📄 | **Deepfake Detection Research** | Accepted · 8BIC 2026 · Co-author |
-| 📄 | **AIRIMF Research Paper** | Submitted · ICMACC 2026 · Sole author · [DOI: 10.5281/zenodo.20691021](https://doi.org/10.5281/zenodo.20691021) |
-| 📄 | **NETOPS-XAI Research** | Submitted · PIMRC 2026 · Sole author |
+| 📄 | **AIRIMF Research Paper** | Preprint [Zenodo](https://doi.org/10.5281/zenodo.20691021) · Submitted ICMACC 2026 · Sole author |
+| 📄 | **NETOPS-XAI Research** | Preprint [Zenodo](https://doi.org/10.5281/zenodo.20698544) · Submitted IS'26 IEEE & PIMRC 2026 · Sole author |
 
 </div>
 
