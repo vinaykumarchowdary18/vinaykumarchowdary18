@@ -17,7 +17,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinaykumarchowdary18&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/vinaykumarchowdary18?style=for-the-badge&color=4285F4&labelColor=0D1117&label=FOLLOWERS)
+[![GitHub followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvinaykumarchowdary18&query=%24.followers&style=for-the-badge&label=FOLLOWERS&color=4285F4&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18?tab=followers)
 
 </div>
 
