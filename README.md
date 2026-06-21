@@ -12,7 +12,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvkchowdary20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
 [![Oracle Certs](https://img.shields.io/badge/Oracle_Certs-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle)
-[![Google Skills](https://img.shields.io/badge/Google_Skills-Diamond_League-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/be7d9bdd-b470-4a25-97f8-e747214f53a1)
+[![Google Dev](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/MVKchowdary18)
+[![Google Skills](https://img.shields.io/badge/Google_Skills-Diamond_League-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/be7d9bdd-b470-4a25-97f8-e747214f53a1)
 [![Zenodo](https://img.shields.io/badge/Zenodo-024BBB?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/me/uploads)
 
 <br/>
