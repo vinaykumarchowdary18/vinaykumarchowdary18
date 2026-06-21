@@ -12,6 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvkchowdary20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
 [![Oracle Certs](https://img.shields.io/badge/Oracle_Certs-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle)
+[![Google Skills](https://img.shields.io/badge/Google_Skills-Diamond_League-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/be7d9bdd-b470-4a25-97f8-e747214f53a1)
 [![Zenodo](https://img.shields.io/badge/Zenodo-024BBB?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/me/uploads)
 
 <br/>
@@ -33,8 +34,7 @@
 👤 Profile:
   name       : "Vinay Kumar Mandadi"
   title      : "Multicloud Architect & Edge AI Specialist"
-  education  : "B.Tech CSE @ LPU (Expected 2026)"
-  university : "Lovely Professional University, Punjab"
+  education  : "B.Tech CSE (Expected 2026)"
   hometown   : "Visakhapatnam, Andhra Pradesh 🇮🇳"
   email      : "mvkchowdary20@gmail.com"
 
@@ -53,7 +53,7 @@
   - Infrastructure as Code (Terraform)
 
 🚀 Currently:
-  - MS Applications: Ireland, Russia, Germany, Japan
+  - MS Applications: Ireland, Japan, Malaysia, China
   - TOFEL Preparation (June 2026)
   - Kaggle AI Agents Capstone — Veridian submitted
   - 4 Research Papers submitted/accepted
@@ -140,7 +140,7 @@ SHAP-based explainable multi-class IDS on CIC-IDS2017 (**98.8% in-domain accurac
 ![SHAP](https://img.shields.io/badge/SHAP-Analysis-00F5D4?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-Systematic empirical study of cross-repository CI failure generalization across **28,836 runs and 456 repositories**. Novel `prev_failed` signal, calibration analysis under domain shift (Temperature Scaling best preserves F1), and SHAP TP vs FN failure-mode decomposition.
+Systematic empirical study of cross-repository CI failure generalization across **28,836 runs and 456 repositories**. Novel `prev_failed` signal, calibration analysis under domain shift, and SHAP TP vs FN failure-mode decomposition.
 
 **AUC-ROC 0.845 (within-repo) → 0.687 (cross-repo)**
 
@@ -163,7 +163,7 @@ Systematic empirical study of cross-repository CI failure generalization across 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-Four AI models from different providers debate every business question before returning an answer. Analyst (Gemini) drafts → two Auditors critique in parallel (Llama + Llama) → Arbiter scores consensus (GPT-4o-mini). Live web search grounding via Tavily. Includes MCP server, 5-layer security pipeline, custom dark UI frontend, and full audit trail.
+Four AI models from different providers debate every business question before returning an answer. Analyst (Gemini) drafts → two Auditors critique in parallel → Arbiter scores consensus (GPT-4o-mini). Live web search grounding via Tavily. Includes MCP server, 5-layer security pipeline, custom dark UI frontend, and full audit trail.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/veridian)
 [![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/aSBQtWnbwJo)
@@ -366,10 +366,11 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 
 <div align="center">
 
-> *Verify active badges · [Full Oracle Certification Repository →](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle)*
+> *Verify active badges · [Full Oracle Certification Repository →](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle) · [Google Skills Profile →](https://www.skills.google/public_profiles/be7d9bdd-b470-4a25-97f8-e747214f53a1)*
 
 ![CERTIFIED](https://img.shields.io/badge/STATUS-CERTIFIED-00F5D4?style=for-the-badge)
 ![ORACLE CLOUD](https://img.shields.io/badge/ORACLE-CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![GOOGLE DIAMOND](https://img.shields.io/badge/GOOGLE-DIAMOND_LEAGUE-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -383,8 +384,10 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 | 🔴 | **OCI Data Platform Foundations** | Oracle | 2025 |
 | 🔴 | **OCI Generative AI** | Oracle | 2025 |
 | 🔴 | **OCI Networking** | Oracle | 2025 |
+| 💎 | **Google Cloud Skills Boost — Diamond League** | Google | 2026 |
 | ☁️ | **Google Cloud Data Analytics Certificate** | Google | — |
 | ☁️ | **Google Cloud ACE Training** | Google | 2025 |
+| 🪟 | **Microsoft AI Skills Fest 2026** | Microsoft | 2026 |
 | 🟠 | **AWS Cloud Practitioner Essentials** | Amazon | — |
 | 🐳 | **Intro to Containers: Docker, Kubernetes & OpenShift** | Coursera / IBM | — |
 | 🐧 | **Hands-on Linux Commands & Shell Scripting** | Coursera / IBM | — |
@@ -398,7 +401,7 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 | 🏆 | Achievement | Metric |
 |:---:|---|:---:|
 | 🥇 | **GDG Solution Challenge — National Finalist** | **Top 3%** · #105 of 3,700+ teams |
-| ⭐ | **Google Cloud Skills Boost** | **Gold Tier** |
+| 💎 | **Google Cloud Skills Boost** | **Diamond League** · 20,802 pts · 80 labs |
 | 🤖 | **Kaggle AI Agents Intensive Capstone** | Veridian — Agents for Business Track |
 | 💻 | **DSA Problem Solving** | **200+** on LeetCode & GeeksForGeeks |
 | 📝 | **GRE General Test** | **324** · Quant: **168**/170 · Verbal: **156**/170 |
@@ -415,8 +418,10 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 
 | Course | Focus | Result |
 |:---|:---|:---:|
+| **Google Cloud Skills Boost** | 25 courses · 80 labs · Cloud Infrastructure & AI | Diamond League 2026 |
 | **Google Cloud ACE Training** | Terraform, Infrastructure-as-Code, Cloud Operations | Outstanding |
 | **AWS Training** | AWS Fundamentals & Hands-on Labs | Completed |
+| **Microsoft AI Skills Fest 2026** | AI Skills & Applied AI | Completed |
 | **NPTEL Japanese Language** | Japanese language fundamentals | Completed |
 
 ---
