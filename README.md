@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+PyTorch+·+TensorFlow;🔬+AIOps+%7C+Explainable+AI+%7C+Cloud+Reliability;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+PyTorch+·+TensorFlow;🔬+AIOps+%7C+Explainable+AI+%7C+Cloud+Reliability;🚀+Founder+%40+DevSignal+HQ+%7C+GitHub+Marketplace;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,6 +15,7 @@
 [![Google Dev](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/MVKchowdary18)
 [![Google Skills](https://img.shields.io/badge/Google_Skills-Diamond_League-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/be7d9bdd-b470-4a25-97f8-e747214f53a1)
 [![Zenodo](https://img.shields.io/badge/Zenodo-024BBB?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/me/uploads)
+[![DevSignal](https://img.shields.io/badge/DevSignal_HQ-GitHub_Marketplace-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marketplace/devsignal-hq)
 
 <br/>
 
@@ -54,8 +55,8 @@
   - Infrastructure as Code (Terraform)
 
 🚀 Currently:
+  - Founder: DevSignal HQ (GitHub Marketplace)
   - MS Applications: Ireland, Japan, Malaysia, China
-  - TOFEL Preparation (June 2026)
   - Kaggle AI Agents Capstone — Veridian submitted
   - 4 Research Papers submitted/accepted
 
@@ -74,7 +75,7 @@
 ![GRE](https://img.shields.io/badge/GRE-324_(Quant_168%2F170)-00F5D4?style=flat-square)
 ![GDG](https://img.shields.io/badge/GDG_Challenge-Top_3%25_National-4285F4?style=flat-square)
 ![Research](https://img.shields.io/badge/Research-4_Papers-7B42BC?style=flat-square)
-![Kaggle](https://img.shields.io/badge/Kaggle-AI_Agents_Capstone-20BEFF?style=flat-square)
+![DevSignal](https://img.shields.io/badge/DevSignal-GitHub_Marketplace-2088FF?style=flat-square)
 
 </td>
 </tr>
@@ -135,13 +136,13 @@ SHAP-based explainable multi-class IDS on CIC-IDS2017 (**98.8% in-domain accurac
 <td width="50%" valign="top">
 
 ### ⚙️ Wide vs. Deep: CI Failure Prediction
-**Sole Author** · *Submitted WSSE 2026*
+**Sole Author** · *Submitted WSSE 2026 (under review)*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-Analysis-00F5D4?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-Systematic empirical study of cross-repository CI failure generalization across **28,836 runs and 456 repositories**. Novel `prev_failed` signal, calibration analysis under domain shift, and SHAP TP vs FN failure-mode decomposition.
+Systematic empirical study of cross-repository CI failure generalization across **28,836 runs and 456 repositories**. Novel `prev_failed` signal, calibration analysis under domain shift, and SHAP TP vs FN failure-mode decomposition. **Productized as DevSignal HQ.**
 
 **AUC-ROC 0.845 (within-repo) → 0.687 (cross-repo)**
 
@@ -195,6 +196,28 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 <tr>
 <td width="50%" valign="top">
 
+### ⚡ DevSignal HQ — CI Failure Prediction SaaS
+**[GitHub Marketplace](https://github.com/marketplace/devsignal-hq)** · *Founder & Developer*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GitHub App](https://img.shields.io/badge/GitHub_App-181717?style=flat-square&logo=github&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fires within seconds of a push — before the workflow wastes compute. Built directly from peer-reviewed research (WSSE 2026, IEEE, under review).
+
+- ⚡ Pre-run ML scoring using prev_failed + SHAP signals
+- 🔔 Email alert fires before GitHub finishes executing
+- 🔧 One-click GitHub App install — auto-webhook setup
+- 📊 Live CI Prediction Dashboard (HIGH / MEDIUM / HEALTHY)
+
+[![Marketplace](https://img.shields.io/badge/GitHub_Marketplace-DevSignal_HQ-2088FF?style=flat-square&logo=github&logoColor=white)](https://github.com/marketplace/devsignal-hq)
+[![Live](https://img.shields.io/badge/Live-Railway-00F5D4?style=flat-square)](https://devsignal-production.up.railway.app)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/devsignal)
+
+</td>
+<td width="50%" valign="top">
+
 ### 📈 StockAI — Stock Market Visualization
 **Live at [stockai338211.web.app](https://stockai338211.web.app)**
 
@@ -209,6 +232,8 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/StockAI)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🚗 EcoRide — Carpooling & RideShare Platform
@@ -225,8 +250,6 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/EcoRide)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧭 Compass AI — Travel Itinerary Planner
@@ -242,6 +265,8 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/Compass-AI)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🗳️ Secure Aadhaar Voting Platform
@@ -256,6 +281,21 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 - 🛡️ HTTPS throughout, secrets in environment variables
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/Aadhaar-Voting)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 University Deadline Tracker
+**Personal Productivity Tool**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+- 📅 Tracks MS application deadlines automatically
+- 🔔 GitHub Actions scheduled reminders
+- 📊 Progress dashboard
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/University-tracker)
 
 </td>
 </tr>
@@ -401,6 +441,7 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 
 | 🏆 | Achievement | Metric |
 |:---:|---|:---:|
+| ⚡ | **DevSignal HQ — Founder** | Submitted to GitHub Marketplace · CI Prediction SaaS |
 | 🥇 | **GDG Solution Challenge — National Finalist** | **Top 3%** · #105 of 3,700+ teams |
 | 💎 | **Google Cloud Skills Boost** | **Diamond League** · 20,802 pts · 80 labs |
 | 🤖 | **Kaggle AI Agents Intensive Capstone** | Veridian — Agents for Business Track |
@@ -409,7 +450,7 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 | 📄 | **Deepfake Detection Research** | Accepted · 8BIC 2026 · Co-author |
 | 📄 | **AIRIMF Research Paper** | Preprint [Zenodo](https://doi.org/10.5281/zenodo.20691021) · Submitted IEEE ICMACC 2026 · Sole author |
 | 📄 | **NETOPS-XAI Research** | Preprint [Zenodo](https://doi.org/10.5281/zenodo.20698544) · Submitted IEEE PIMRC 2026 & IS'26 · Sole author |
-| 📄 | **CI Failure Prediction Research** | Submitted WSSE 2026 · Sole author · 28,836 runs · 456 repos |
+| 📄 | **CI Failure Prediction Research** | Submitted WSSE 2026 (under review) · Sole author · 28,836 runs · 456 repos |
 
 </div>
 
@@ -467,6 +508,7 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-chowdary)
 [![Gmail](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvkchowdary20@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
+[![DevSignal](https://img.shields.io/badge/DevSignal_HQ-GitHub_Marketplace-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marketplace/devsignal-hq)
 
 <br/>
 
