@@ -471,7 +471,7 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vinaykumarchowdary18/REPO_NAME/BRANCH/profile-stats/streak.svg" alt="GitHub Streak" width="70%" />
+<img src="https://github.com/vinaykumarchowdary18/vinaykumarchowdary18/blob/main/profile-stats/streak.svg" alt="GitHub Streak" width="70%" />
 
 <br/><br/>
 
