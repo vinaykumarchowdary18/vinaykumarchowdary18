@@ -462,7 +462,8 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=4285F4&point=F80000&area=true" alt="Activity Graph" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9" alt="Top Languages" width="38%" />
 
 </div>
 
