@@ -19,45 +19,71 @@ jobs:
 
       - name: Fetch GitHub Stats card
         run: |
-          curl -f -sSL "https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=c9d1d9" \
-            -o profile-stats/stats.svg || echo "⚠️ curl failed for stats.svg (non-zero exit) — will fall back to previous version"
+          curl -sSL "https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=c9d1d9" \
+            -o profile-stats/stats.fetched.svg
+          echo "--- raw response (first 300 chars) ---"
+          head -c 300 profile-stats/stats.fetched.svg
 
       - name: Fetch Top Languages card
         run: |
-          curl -f -sSL "https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9" \
-            -o profile-stats/top-langs.svg || echo "⚠️ curl failed for top-langs.svg (non-zero exit) — will fall back to previous version"
+          curl -sSL "https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9" \
+            -o profile-stats/top-langs.fetched.svg
+          echo "--- raw response (first 300 chars) ---"
+          head -c 300 profile-stats/top-langs.fetched.svg
 
       - name: Fetch Streak Stats card
         run: |
-          curl -f -sSL "https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" \
-            -o profile-stats/streak.svg || echo "⚠️ curl failed for streak.svg (non-zero exit) — will fall back to previous version"
+          curl -sSL "https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" \
+            -o profile-stats/streak.fetched.svg
+          echo "--- raw response (first 300 chars) ---"
+          head -c 300 profile-stats/streak.fetched.svg
 
-      - name: Validate downloads are real SVGs (not error pages)
+      - name: Validate and promote (or fall back to placeholder)
         run: |
-          FAILED=0
-          for f in profile-stats/stats.svg profile-stats/top-langs.svg profile-stats/streak.svg; do
-            # A "bad" file is one that: doesn't exist, is empty, doesn't contain <svg,
-            # or DOES contain the disguised-as-valid-svg error card text these APIs
-            # return when they hit a rate limit or internal error.
-            if [ ! -s "$f" ] || ! grep -q "<svg" "$f" || grep -qi "something went wrong\|rate limit\|maximum retries" "$f"; then
-              echo "❌ $f is invalid or an error card."
-              if git checkout -- "$f" 2>/dev/null; then
-                echo "   ↳ Restored previous committed version."
-              else
-                echo "   ↳ No previous committed version exists yet for $f."
-                echo "   ↳ Removing broken file so we never commit garbage."
-                rm -f "$f"
-                FAILED=1
-              fi
+          # A file is only "valid" if it's a real, sizeable SVG and doesn't contain
+          # known error-card / error-page text (github-readme-stats sometimes wraps
+          # its error message INSIDE a technically-valid <svg> tag).
+          is_valid () {
+            local f="$1"
+            [ -s "$f" ] || return 1
+            grep -q "<svg" "$f" || return 1
+            grep -qi "something went wrong\|rate limit\|maximum retries\|FUNCTION_INVOCATION\|NOT_FOUND\|server error" "$f" && return 1
+            # Real cards are always well over 1KB; anything tiny is a stub/error page.
+            [ "$(wc -c < "$f")" -ge 500 ] || return 1
+            return 0
+          }
+
+          make_placeholder () {
+            local label="$1" out="$2"
+            cat > "$out" <<SVG
+          <svg xmlns="http://www.w3.org/2000/svg" width="495" height="120">
+            <rect width="100%" height="100%" rx="8" fill="#0D1117" stroke="#30363d"/>
+            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+                  fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="15">
+              ${label} temporarily unavailable — check back soon
+            </text>
+          </svg>
+          SVG
+          }
+
+          declare -A NAMES=( [stats]="GitHub Stats" [top-langs]="Top Languages" [streak]="GitHub Streak" )
+
+          for key in stats top-langs streak; do
+            fetched="profile-stats/${key}.fetched.svg"
+            final="profile-stats/${key}.svg"
+
+            if is_valid "$fetched"; then
+              echo "✅ ${key}: fresh fetch is valid, promoting it."
+              mv "$fetched" "$final"
+            elif [ -f "$final" ] && is_valid "$final"; then
+              echo "⚠️  ${key}: fresh fetch invalid, but existing committed version IS valid — keeping it."
+              rm -f "$fetched"
             else
-              echo "✅ $f looks valid."
+              echo "❌ ${key}: fresh fetch invalid AND no valid version on record — writing placeholder."
+              make_placeholder "${NAMES[$key]}" "$final"
+              rm -f "$fetched"
             fi
           done
-          if [ "$FAILED" -eq 1 ]; then
-            echo "One or more cards had no valid fallback available. The workflow will still"
-            echo "complete (so other good cards get committed), but check the run logs — the"
-            echo "upstream API (github-readme-stats.vercel.app) is likely rate-limited or down."
-          fi
 
       - name: Commit and push if changed
         run: |
