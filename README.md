@@ -2,7 +2,7 @@
 
 <a href="https://github.com/vinaykumarchowdary18"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:7B42BC,50:00F5D4,75:F80000,100:FF9900&height=240&section=header&text=Vinay%20Kumar%20Mandadi&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=☁️%20Multicloud%20Architect%20%7C%20⚙️%20DevOps%20Engineer%20%7C%20🧠%20Edge%20AI%20Specialist&descSize=18&descAlignY=60&descColor=00F5D4" alt="Header" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+PyTorch+·+TensorFlow;🔬+AIOps+%7C+Explainable+AI+%7C+Cloud+Reliability;🚀+Founder+%40+DevSignal+HQ+%7C+GitHub+Marketplace;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=%E2%98%81%EF%B8%8F+Multicloud+Architect+%7C+GCP+%C2%B7+AWS+%C2%B7+OCI;%E2%9A%99%EF%B8%8F+DevOps+%7C+Terraform+%C2%B7+Kubernetes+%C2%B7+Docker;%F0%9F%A7%A0+MLOps+%26+Edge+AI+%7C+PyTorch+%C2%B7+TensorFlow;%F0%9F%94%AC+AIOps+%7C+Explainable+AI+%7C+Cloud+Reliability;%F0%9F%9A%80+Founder+%40+DevSignal+HQ+%7C+GitHub+Marketplace;%F0%9F%8E%93+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324" alt="Typing SVG" /></a>
 
 <a href="https://linkedin.com/in/vinay-kumar-chowdary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mvkchowdary20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -458,12 +458,12 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4&cache_seconds=86400" alt="GitHub Streak" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9" alt="Top Languages" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" width="38%" />
 
 </div>
 
