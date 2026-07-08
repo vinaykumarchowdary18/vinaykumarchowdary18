@@ -121,7 +121,7 @@ Leakage-free Random Forest pipeline with SMOTE for software risk prediction usin
 <td width="50%" valign="top">
 
 ### 🔐 NETOPS-XAI: Explainable Intrusion Detection
-**Sole Author** · *Submitted IEEE PIMRC 2026 WS5 & IS'26* · **Preprint on Zenodo**
+**Sole Author** · *Submitted IEEE IS'26* · **Preprint on Zenodo**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-00F5D4?style=flat-square)
@@ -204,7 +204,7 @@ Adversarial multi-agent validation system where four LLMs debate, critique, and 
 ![GitHub App](https://img.shields.io/badge/GitHub_App-181717?style=flat-square&logo=github&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fires within seconds of a push — before the workflow wastes compute. Built directly from peer-reviewed research (WSSE 2026, IEEE, under review).
+Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fires within seconds of a push — before the workflow wastes compute. Built directly from peer-reviewed research (WSSE 2026, under review).
 
 - ⚡ Pre-run ML scoring using prev_failed + SHAP signals
 - 🔔 Email alert fires before GitHub finishes executing
@@ -449,7 +449,7 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 | 📝 | **GRE General Test** | **324** · Quant: **168**/170 · Verbal: **156**/170 |
 | 📄 | **Deepfake Detection Research** | Accepted · 8BIC 2026 · Co-author |
 | 📄 | **AIRIMF Research Paper** | Preprint [Zenodo](https://doi.org/10.5281/zenodo.20691021) · Submitted IEEE ICMACC 2026 · Sole author |
-| 📄 | **NETOPS-XAI Research** | Preprint [Zenodo](https://doi.org/10.5281/zenodo.20698544) · Submitted IEEE PIMRC 2026 & IS'26 · Sole author |
+| 📄 | **NETOPS-XAI Research** | Preprint [Zenodo](https://doi.org/10.5281/zenodo.20698544) · Submitted IEEE IS'26 · Sole author |
 | 📄 | **CI Failure Prediction Research** | Submitted WSSE 2026 (under review) · Sole author · 28,836 runs · 456 repos |
 
 </div>
