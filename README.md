@@ -472,7 +472,7 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" alt="GitHub Streak" width="70%" />
 
 <br/><br/>
 
