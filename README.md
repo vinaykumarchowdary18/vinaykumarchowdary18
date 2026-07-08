@@ -1,13 +1,8 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:7B42BC,50:00F5D4,75:F80000,100:FF9900&height=240&section=header&text=Vinay%20Kumar%20Mandadi&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=☁️%20Multicloud%20Architect%20%7C%20⚙️%20DevOps%20Engineer%20%7C%20🧠%20Edge%20AI%20Specialist&descSize=18&descAlignY=60&descColor=00F5D4" alt="Header" />
-
 <br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+PyTorch+·+TensorFlow;🔬+AIOps+%7C+Explainable+AI+%7C+Cloud+Reliability;🚀+Founder+%40+DevSignal+HQ+%7C+GitHub+Marketplace;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)](https://git.io/typing-svg)
-
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-chowdary)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvkchowdary20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
@@ -16,12 +11,9 @@
 [![Google Skills](https://img.shields.io/badge/Google_Skills-Diamond_League-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/be7d9bdd-b470-4a25-97f8-e747214f53a1)
 [![Zenodo](https://img.shields.io/badge/Zenodo-024BBB?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/me/uploads)
 [![DevSignal](https://img.shields.io/badge/DevSignal_HQ-GitHub_Marketplace-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marketplace/devsignal-hq)
-
 <br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=vinaykumarchowdary18&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvinaykumarchowdary18&query=%24.followers&style=for-the-badge&label=FOLLOWERS&color=4285F4&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18?tab=followers)
-
 </div>
 
 ---
@@ -67,9 +59,7 @@
 
 </td>
 <td width="45%" align="center" valign="top">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
-
 <br/><br/>
 
 ![GRE](https://img.shields.io/badge/GRE-324_(Quant_168%2F170)-00F5D4?style=flat-square)
@@ -127,7 +117,7 @@ Leakage-free Random Forest pipeline with SMOTE for software risk prediction usin
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-00F5D4?style=flat-square)
 ![CIC-IDS](https://img.shields.io/badge/CIC--IDS2017-Dataset-4285F4?style=flat-square)
 
-SHAP-based explainable multi-class IDS on CIC-IDS2017 (**98.8% in-domain accuracy**). Quantified catastrophic domain shift to UNSW-NB15 (31.9%). Platt scaling recovered **68.1% OOD accuracy**. FastAPI endpoint + Streamlit dashboard.
+SHAP-based explainable multi-class IDS on CIC-IDS2017 (**99.02% in-domain accuracy**, macro F1 0.906), with SHAP explanations across all 11 classes. Quantified catastrophic domain shift to UNSW-NB15 (31.9% accuracy). Platt scaling recovered **68.0% OOD accuracy**. FastAPI endpoint + Streamlit dashboard.
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20698544-024BBB?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.20698544)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18/NetOps-XAI)
@@ -306,7 +296,6 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ## 🛠️ Technology Stack
 
 ### ☁️ Cloud Platforms & Infrastructure
-
 <div align="center">
 
 | AWS | GCP | Oracle Cloud | Azure | Firebase | DigitalOcean | Vercel | Netlify |
@@ -318,7 +307,6 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ---
 
 ### ⚙️ DevOps & Orchestration
-
 <div align="center">
 
 | Docker | Kubernetes | Terraform | Jenkins | GitHub Actions | GitLab CI |
@@ -330,7 +318,6 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ---
 
 ### 💻 Programming Languages
-
 <div align="center">
 
 | Python | JavaScript | TypeScript | Java | Bash | Go |
@@ -342,7 +329,6 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ---
 
 ### 🌐 Web Development & Frameworks
-
 <div align="center">
 
 | Node.js | React | Next.js | Vue | Express | FastAPI | Flask | HTML5 | CSS3 | Tailwind |
@@ -354,7 +340,6 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ---
 
 ### 🧠 AI / ML & Data Science
-
 <div align="center">
 
 | TensorFlow | PyTorch | OpenCV | scikit-learn | pandas | NumPy |
@@ -368,7 +353,6 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ---
 
 ### 🗄️ Databases & Storage
-
 <div align="center">
 
 | MySQL | PostgreSQL | MongoDB | SQLite | Firestore |
@@ -380,7 +364,6 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ---
 
 ### 🔧 Tools & Platforms
-
 <div align="center">
 
 | Git | GitHub | Linux | VS Code | Nginx | Postman |
@@ -392,7 +375,6 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ---
 
 ### 📈 Monitoring & Observability
-
 <div align="center">
 
 | Prometheus | Grafana | ELK Stack | Datadog |
@@ -414,7 +396,6 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ![GOOGLE DIAMOND](https://img.shields.io/badge/GOOGLE-DIAMOND_LEAGUE-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
-
 <br/>
 
 | Badge | Certification | Provider | Year |
@@ -471,13 +452,9 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ## 📊 GitHub Activity
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" alt="GitHub Streak" width="70%" />
-
 <br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=4285F4&point=F80000&area=true" alt="Activity Graph" width="95%" />
-
 </div>
 
 ---
