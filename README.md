@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:7B42BC,50:00F5D4,75:F80000,100:FF9900&height=240&section=header&text=Vinay%20Kumar%20Mandadi&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=☁️%20Multicloud%20Architect%20%7C%20⚙️%20DevOps%20Engineer%20%7C%20🧠%20Edge%20AI%20Specialist&descSize=18&descAlignY=60&descColor=00F5D4" alt="Header" />
-<br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+PyTorch+·+TensorFlow;🔬+AIOps+%7C+Explainable+AI+%7C+Cloud+Reliability;🚀+Founder+%40+DevSignal+HQ+%7C+GitHub+Marketplace;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)](https://git.io/typing-svg)
-<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-chowdary)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvkchowdary20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
-[![Oracle Certs](https://img.shields.io/badge/Oracle_Certs-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle)
-[![Google Dev](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/MVKchowdary18)
-[![Google Skills](https://img.shields.io/badge/Google_Skills-Diamond_League-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/be7d9bdd-b470-4a25-97f8-e747214f53a1)
-[![Zenodo](https://img.shields.io/badge/Zenodo-024BBB?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/me/uploads)
-[![DevSignal](https://img.shields.io/badge/DevSignal_HQ-GitHub_Marketplace-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marketplace/devsignal-hq)
-<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=vinaykumarchowdary18&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvinaykumarchowdary18&query=%24.followers&style=for-the-badge&label=FOLLOWERS&color=4285F4&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18?tab=followers)
+<a href="https://github.com/vinaykumarchowdary18"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:7B42BC,50:00F5D4,75:F80000,100:FF9900&height=240&section=header&text=Vinay%20Kumar%20Mandadi&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=☁️%20Multicloud%20Architect%20%7C%20⚙️%20DevOps%20Engineer%20%7C%20🧠%20Edge%20AI%20Specialist&descSize=18&descAlignY=60&descColor=00F5D4" alt="Header" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+PyTorch+·+TensorFlow;🔬+AIOps+%7C+Explainable+AI+%7C+Cloud+Reliability;🚀+Founder+%40+DevSignal+HQ+%7C+GitHub+Marketplace;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324" alt="Typing SVG" /></a>
+
+<a href="https://linkedin.com/in/vinay-kumar-chowdary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mvkchowdary20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/vinaykumarchowdary18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/vinaykumarchowdary18/Certifications/tree/main/Oracle"><img src="https://img.shields.io/badge/Oracle_Certs-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certs"/></a>
+<a href="https://g.dev/MVKchowdary18"><img src="https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/></a>
+<a href="https://www.skills.google/public_profiles/be7d9bdd-b470-4a25-97f8-e747214f53a1"><img src="https://img.shields.io/badge/Google_Skills-Diamond_League-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills"/></a>
+<a href="https://zenodo.org/me/uploads"><img src="https://img.shields.io/badge/Zenodo-024BBB?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo"/></a>
+<a href="https://github.com/marketplace/devsignal-hq"><img src="https://img.shields.io/badge/DevSignal_HQ-GitHub_Marketplace-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="DevSignal"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=vinaykumarchowdary18&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/vinaykumarchowdary18?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvinaykumarchowdary18&query=%24.followers&style=for-the-badge&label=FOLLOWERS&color=4285F4&labelColor=0D1117&logo=github&logoColor=white" alt="GitHub followers"/></a>
 
 </div>
 
@@ -491,12 +491,10 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-chowdary)
-[![Gmail](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvkchowdary20@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18)
-[![DevSignal](https://img.shields.io/badge/DevSignal_HQ-GitHub_Marketplace-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marketplace/devsignal-hq)
-
-<br/>
+<a href="https://linkedin.com/in/vinay-kumar-chowdary"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mvkchowdary20@gmail.com"><img src="https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/vinaykumarchowdary18"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/marketplace/devsignal-hq"><img src="https://img.shields.io/badge/DevSignal_HQ-GitHub_Marketplace-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="DevSignal"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,25:F80000,50:7B42BC,75:00F5D4,100:4285F4&height=140&section=footer&animation=twinkling" alt="Footer" />
 
