@@ -476,7 +476,7 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 <br/><br/>
 
 <img src="https://github.com/vinaykumarchowdary18/vinaykumarchowdary18/blob/main/profile-stats/stats.svg" alt="GitHub Stats" width="48%" />
-<img src="https://raw.githubusercontent.com/vinaykumarchowdary18/REPO_NAME/BRANCH/profile-stats/top-langs.svg" alt="Top Languages" width="38%" />
+<img src="https://github.com/vinaykumarchowdary18/vinaykumarchowdary18/blob/main/profile-stats/top-langs.svg" alt="Top Languages" width="38%" />
 
 </div>
 
