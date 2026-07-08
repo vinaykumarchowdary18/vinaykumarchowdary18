@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:7B42BC,50:00F5D4,75:F80000,100:FF9900&height=240&section=header&text=Vinay%20Kumar%20Mandadi&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=☁️%20Multicloud%20Architect%20%7C%20⚙️%20DevOps%20Engineer%20%7C%20🧠%20Edge%20AI%20Specialist&descSize=18&descAlignY=60&descColor=00F5D4" alt="Header" />
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=☁️+Multicloud+Architect+%7C+GCP+·+AWS+·+OCI;⚙️+DevOps+%7C+Terraform+·+Kubernetes+·+Docker;🧠+MLOps+%26+Edge+AI+%7C+PyTorch+·+TensorFlow;🔬+AIOps+%7C+Explainable+AI+%7C+Cloud+Reliability;🚀+Founder+%40+DevSignal+HQ+%7C+GitHub+Marketplace;🎓+Final-Year+B.Tech+CSE+%40+LPU+%7C+GRE+324)](https://git.io/typing-svg)
@@ -14,6 +15,7 @@
 <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=vinaykumarchowdary18&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvinaykumarchowdary18&query=%24.followers&style=for-the-badge&label=FOLLOWERS&color=4285F4&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/vinaykumarchowdary18?tab=followers)
+
 </div>
 
 ---
@@ -59,8 +61,10 @@
 
 </td>
 <td width="45%" align="center" valign="top">
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
-<br/><br/>
+
+<br/>
 
 ![GRE](https://img.shields.io/badge/GRE-324_(Quant_168%2F170)-00F5D4?style=flat-square)
 ![GDG](https://img.shields.io/badge/GDG_Challenge-Top_3%25_National-4285F4?style=flat-square)
@@ -396,6 +400,7 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ![GOOGLE DIAMOND](https://img.shields.io/badge/GOOGLE-DIAMOND_LEAGUE-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
+
 <br/>
 
 | Badge | Certification | Provider | Year |
@@ -452,9 +457,13 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 ## 📊 GitHub Activity
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" alt="GitHub Streak" width="70%" />
+
 <br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarchowdary18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=4285F4&point=F80000&area=true" alt="Activity Graph" width="95%" />
+
 </div>
 
 ---
