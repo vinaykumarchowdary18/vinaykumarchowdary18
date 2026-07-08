@@ -1,5 +1,7 @@
-The deployment is currently unavailable
-
-DEPLOYMENT_PAUSED
-
-iad1::bf26r-1783532671057-b3dd6aca425e
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="120">
+  <rect width="100%" height="100%" rx="8" fill="#0D1117" stroke="#30363d"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="15">
+    Top Languages temporarily unavailable — check back soon
+  </text>
+</svg>
