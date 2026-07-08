@@ -1,5 +1,4 @@
 name: Update Profile Stats Cards
-
 on:
   schedule:
     - cron: "0 3 * * *"   # daily at 03:00 UTC
@@ -20,27 +19,45 @@ jobs:
 
       - name: Fetch GitHub Stats card
         run: |
-          curl -sSL "https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=c9d1d9" \
-            -o profile-stats/stats.svg
+          curl -f -sSL "https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=c9d1d9" \
+            -o profile-stats/stats.svg || echo "⚠️ curl failed for stats.svg (non-zero exit) — will fall back to previous version"
 
       - name: Fetch Top Languages card
         run: |
-          curl -sSL "https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9" \
-            -o profile-stats/top-langs.svg
+          curl -f -sSL "https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9" \
+            -o profile-stats/top-langs.svg || echo "⚠️ curl failed for top-langs.svg (non-zero exit) — will fall back to previous version"
 
       - name: Fetch Streak Stats card
         run: |
-          curl -sSL "https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" \
-            -o profile-stats/streak.svg
+          curl -f -sSL "https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" \
+            -o profile-stats/streak.svg || echo "⚠️ curl failed for streak.svg (non-zero exit) — will fall back to previous version"
 
       - name: Validate downloads are real SVGs (not error pages)
         run: |
+          FAILED=0
           for f in profile-stats/stats.svg profile-stats/top-langs.svg profile-stats/streak.svg; do
-            if ! grep -q "<svg" "$f"; then
-              echo "$f did not download a valid SVG — keeping previous version."
-              git checkout -- "$f" || true
+            # A "bad" file is one that: doesn't exist, is empty, doesn't contain <svg,
+            # or DOES contain the disguised-as-valid-svg error card text these APIs
+            # return when they hit a rate limit or internal error.
+            if [ ! -s "$f" ] || ! grep -q "<svg" "$f" || grep -qi "something went wrong\|rate limit\|maximum retries" "$f"; then
+              echo "❌ $f is invalid or an error card."
+              if git checkout -- "$f" 2>/dev/null; then
+                echo "   ↳ Restored previous committed version."
+              else
+                echo "   ↳ No previous committed version exists yet for $f."
+                echo "   ↳ Removing broken file so we never commit garbage."
+                rm -f "$f"
+                FAILED=1
+              fi
+            else
+              echo "✅ $f looks valid."
             fi
           done
+          if [ "$FAILED" -eq 1 ]; then
+            echo "One or more cards had no valid fallback available. The workflow will still"
+            echo "complete (so other good cards get committed), but check the run logs — the"
+            echo "upstream API (github-readme-stats.vercel.app) is likely rate-limited or down."
+          fi
 
       - name: Commit and push if changed
         run: |
