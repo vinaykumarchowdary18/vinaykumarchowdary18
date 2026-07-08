@@ -456,14 +456,27 @@ Predicts GitHub Actions CI failures **before** they happen. Pre-run scoring fire
 
 ## 📊 GitHub Activity
 
+<!--
+  NOTE: These three cards now load from THIS repo (via raw.githubusercontent.com)
+  instead of live from github-readme-stats.vercel.app. A GitHub Action
+  (.github/workflows/update-stats.yml) refreshes them daily and commits the
+  result to /profile-stats/. If a refresh run ever fails, the previous
+  successful SVG stays in place instead of showing a broken image.
+
+  IMPORTANT: replace REPO_NAME below with the actual name of the repo this
+  README lives in (for a profile README it's usually the same as your
+  username, e.g. vinaykumarchowdary18/vinaykumarchowdary18) and BRANCH
+  with your default branch (main or master).
+-->
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4&cache_seconds=86400" alt="GitHub Streak" width="70%" />
+<img src="https://raw.githubusercontent.com/vinaykumarchowdary18/REPO_NAME/BRANCH/profile-stats/streak.svg" alt="GitHub Streak" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" width="38%" />
+<img src="https://raw.githubusercontent.com/vinaykumarchowdary18/REPO_NAME/BRANCH/profile-stats/stats.svg" alt="GitHub Stats" width="48%" />
+<img src="https://raw.githubusercontent.com/vinaykumarchowdary18/REPO_NAME/BRANCH/profile-stats/top-langs.svg" alt="Top Languages" width="38%" />
 
 </div>
 
