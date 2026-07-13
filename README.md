@@ -441,9 +441,6 @@ Verify active badges · <a href="https://github.com/vinaykumarchowdary18/Certifi
 
 <img src="https://streak-stats.demolab.com?user=vinaykumarchowdary18&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=F80000&currStreakLabel=4285F4&sideNums=00F5D4" alt="GitHub Streak" width="70%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinaykumarchowdary18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=4285F4&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarchowdary18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9&cache_seconds=1800&langs_count=8" alt="Top Languages" width="38%" />
-
 </div>
 
 ## 🌍 Languages
