@@ -13,7 +13,7 @@ Applying for MS / PhD positions, 2027 intake
 
 I mine large repository corpora to predict failures in automated systems, and study what happens to those predictions when the data distribution moves.
 
-The recurring finding across my work is that within-project performance is a poor guide to cross-project performance, and that most reported accuracy figures hide this. In CI failure prediction, AUC-ROC falls from 0.845 within-repository to 0.687 across repositories. In intrusion detection, accuracy falls from 99.02% to 31.9% when the dataset changes. Both numbers are in my papers because the gap is the result worth reporting — and in both cases post-hoc calibration recovers a usable part of it. I am interested in continuing this work: cross-project generalisation, calibrated confidence, and explanation methods that survive distribution shift.
+The recurring finding across my work is that within-project performance is a poor guide to cross-project performance, and that most reported accuracy figures hide this. In CI failure prediction, AUC-ROC falls from 0.845 within-repository to 0.687 across repositories. In intrusion detection, accuracy falls from 99.02% to 31.9% when the dataset changes. Both numbers are in my papers because the gap is the result worth reporting — and in both cases post-hoc calibration recovers a usable part of it. I want to continue on cross-project generalisation, calibrated confidence, and explanation methods that survive distribution shift.
 
 I also build the tools. One of my studies is now a GitHub App that developers install, which I think is the right end state for software engineering research.
 
@@ -38,7 +38,10 @@ Dual-Branch Deep Learning Framework for Deepfake Detection. *8BIC 2026.* **Accep
 ## Software
 
 **[DevSignal HQ](https://github.com/marketplace/devsignal-hq)** — A GitHub App that scores the failure risk of a CI run before the workflow finishes.<br/>
-<sub>Implements the model from *Wide vs. Deep*. Webhook-triggered, JWT-authenticated, scores pushed within seconds. Flask, deployed on Railway. Live on the GitHub Marketplace.</sub>
+<sub>Implements the model from *Wide vs. Deep*. Webhook-triggered, JWT-authenticated, scores returned within seconds of a push. Flask, deployed on Railway. Live on the GitHub Marketplace.</sub>
+
+**PaperLens** — A service that checks a manuscript for AI-generated text and for overlap with the published literature.<br/>
+<sub>Plagiarism side queries the open scholarly APIs — Semantic Scholar, OpenAlex, CrossRef, CORE — for semantic overlap rather than string matching. AI-detection side runs an ensemble and reports per-agent disagreement instead of a single verdict, which is the same calibration argument as my papers: an unqualified score on a borderline document is worse than an honest spread. FastAPI, React, OAuth, async task queue.</sub>
 
 **Veridian** — A multi-model agent that cross-examines its own answer before returning it.<br/>
 <sub>Analyst drafts, two independent Auditors critique in parallel, an Arbiter scores consensus. Retrieval-grounded. MCP server, layered input validation, full audit trail. Kaggle AI Agents Intensive Capstone 2026.</sub>
@@ -46,7 +49,11 @@ Dual-Branch Deep Learning Framework for Deepfake Detection. *8BIC 2026.* **Accep
 **AMAV** — A Proposer–Critic–Arbiter pipeline for validating machine-generated research summaries.<br/>
 <sub>Four LLMs across three providers; emits confidence scores, reasoning traces and dissent logs rather than a single unattributed answer.</sub>
 
-**University Deadline Tracker** — A scheduled GitHub Actions workflow that tracks application deadlines and reports status.
+**OpenGrab** — A game-playing agent for the Kaggle PTCG AI Battle competition.<br/>
+<sub>Strategy derived from replay analysis of losses — diagnosing failure modes and iterating the policy against them.</sub>
+
+**AssetFlow** — Enterprise asset and resource management backend. *Odoo Hackathon 2026, sole backend developer.*<br/>
+<sub>Django 6.0. Role-based access control enforced server-side, double-allocation and time-slot overlap prevented at the model layer, maintenance state machine, 12 unit and integration tests over the business rules.</sub>
 
 ---
 
@@ -71,6 +78,6 @@ I am looking for a research group in empirical software engineering, mining soft
 
 **Services** — FastAPI, Flask, Django, Node.js, React, PostgreSQL, MongoDB
 
-**Other** — Sole backend developer, AssetFlow (Odoo Hackathon 2026, Django). National Finalist, GDG Solution Challenge 2025 (#105 of 3,700+ teams). GRE 324 (Q168/170). Second-generation operator of a family stone-crushing plant — equipment uptime, scheduling, compliance.
+**Also** — National Finalist, GDG Solution Challenge 2025 (#105 of 3,700+ teams). GRE 324 (Q168/170). Second-generation operator of a family stone-crushing plant — equipment uptime, scheduling, compliance.
 
 <sub>English: full professional (MOI certified) · Telugu: native · Hindi: fluent · Japanese: coursework to N4 level, preparing for JLPT N2</sub>
