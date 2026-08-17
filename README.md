@@ -49,7 +49,7 @@ Dual-Branch Deep Learning Framework for Deepfake Detection. *8BIC 2026.* **Accep
 **AMAV** — A Proposer–Critic–Arbiter pipeline for validating machine-generated research summaries.<br/>
 <sub>Four LLMs across three providers; emits confidence scores, reasoning traces and dissent logs rather than a single unattributed answer.</sub>
 
-**OpenGrab** — A game-playing agent for the Kaggle PTCG AI Battle competition.<br/>
+ A game-playing agent for the Kaggle PTCG AI Battle competition.<br/>
 <sub>Strategy derived from replay analysis of losses — diagnosing failure modes and iterating the policy against them.</sub>
 
 **AssetFlow** — Enterprise asset and resource management backend. *Odoo Hackathon 2026, sole backend developer.*<br/>
