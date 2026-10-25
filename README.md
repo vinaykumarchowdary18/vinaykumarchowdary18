@@ -81,6 +81,6 @@ Studying Japanese, working toward JLPT N2. Open to conversations about applied A
 
 **Services**: FastAPI, Flask, Django, Node.js, React, PostgreSQL, MongoDB
 
-**Also**: National Finalist, GDG Solution Challenge 2025 (#105 of 3,700+ teams). GRE 324 (Q168/170). Second-generation operator of a family stone-crushing plant: equipment uptime, scheduling, compliance.
+**Also**: GDG Solution Challenge 2025 (#105 of 3,700+ teams). GRE 324 (Q168/170). Second-generation operator of a family stone-crushing plant: equipment uptime, scheduling, compliance.
 
 <sub>English: full professional (MOI certified) · Telugu: native · Hindi: fluent · Japanese: coursework to N4 level, preparing for JLPT N2</sub>
